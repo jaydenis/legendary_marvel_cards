@@ -1,0 +1,1 @@
+legendary_marvel_cards
