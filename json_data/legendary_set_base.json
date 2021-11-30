@@ -1,0 +1,123 @@
+[
+    {
+      "setId": 100,
+	  "decks":[
+		  {
+		    "deckId":101,
+		    "setId": 100,
+		    "deckImage": "images/cards/heroes/captain-america-01.jpg",
+		    "deckName": "Captain America",
+		    "deckType": "Hero",
+				"cards":[
+					{
+					    "deckId":101,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/captain-america-01.jpg",
+					    "cardType": "Hero-Rare",
+					    "teamName": "Avengers",
+					  },
+					  {
+					    "deckId":101,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/captain-america-02.jpg",
+					    "cardType": "Hero-Uncommon",
+					    "teamName": "Avengers",
+					  },
+					  {
+					    "deckId":101,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/captain-america-03.jpg",
+					    "cardName": "Avengers Assemble",
+					    "cardType": "Hero-Common",
+					    "teamName": "Avengers",
+					  },
+					  {
+					    "deckId":101,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/captain-america-04.jpg",
+					    "cardType": "Hero-Common",
+					    "teamName": "Avengers",
+					  }
+				]
+		  },
+		  {
+		      "deckId":102,
+		      "setId": 100,
+		      "deckImage": "images/cards/heroes/iron-man-01.jpg",
+		      "deckName": "Iron Man",
+		      "deckType": "Hero",
+			  "cards":[
+				  {
+				      "deckId":102,
+				      "setId": 100,
+				      "cardImage": "images/cards/heroes/iron-man-01.jpg",
+				      "cardType": "Hero-Rare",
+				      "teamName": "Avengers",
+				    },
+				    {
+				      "deckId":102,
+				      "setId": 100,
+				      "cardImage": "images/cards/heroes/iron-man-02.jpg",
+				      "cardType": "Hero-Uncommon",
+				      "teamName": "Avengers",
+				    },
+				    {
+				      "deckId":102,
+				      "setId": 100,
+				      "cardImage": "images/cards/heroes/iron-man-03.jpg",
+				      "cardType": "Hero-Common",
+				      "teamName": "Avengers",
+				    },
+				    {
+				      "deckId":102,
+				      "setId": 100,
+				      "cardImage": "images/cards/heroes/iron-man-04.jpg",
+				      "cardType": "Hero-Common",
+				      "teamName": "Avengers",
+				    },
+			  ]
+		  },
+		  {
+			  {
+			    "deckId":103,
+			    "setId": 100,
+			    "deckImage": "images/cards/heroes/black-widow-01.jpg",
+			    "deckName": "Black Widow",
+			    "deckType": "Hero",
+				"cards":[
+					{
+					    "deckId":103,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/black-widow-01.jpg",
+					    "cardType": "Hero-Rare",
+					    "teamName": "Avengers",
+					  },
+					  {
+					    "deckId":103,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/black-widow-02.jpg",
+					    "cardType": "Hero-Uncommon",
+					    "teamName": "Avengers",
+					  },
+					  {
+					    "deckId":103,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/black-widow-03.jpg",
+					    "cardType": "Hero-Common",
+					    "teamName": "Avengers",
+					  },
+					  {
+					    "deckId":103,
+					    "setId": 100,
+					    "cardImage": "images/cards/heroes/black-widow-04.jpg",
+					    "cardType": "Hero-Common",
+					    "teamName": "Avengers",
+					  },
+				]
+			  },
+		  }
+		  
+	  ]
+    },
+	
+]
