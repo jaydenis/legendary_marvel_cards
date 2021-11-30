@@ -77,7 +77,7 @@
 				    },
 			  ]
 		  },
-		  {
+		  
 			  {
 			    "deckId":203,
 			    "setId": 200,
@@ -114,8 +114,8 @@
 					    "teamName": "Fantastic Four",
 					  },
 				]
-			  },
-		  }
+			  }
+		  
 		  
 	  ]
     },
