@@ -1,14 +1,14 @@
  [
     {
-      "setId": 1,
-      "setName": "Base",
+      "setId": 100,
+      "setName": "Core",
       "boxImage": "images/boxart/legendary_core.jpg",
       "yearReleased": 2013,
       "numberOfCards": 350,
 	  "jsonFile":"json_data/legendary_set_base.json"
     },
     {
-      "setId": 2,
+      "setId": 200,
       "setName": "Fantastic Four",
       "boxImage": "images/boxart/legendary_fantastic_four.jpg",
       "yearReleased": 2013,
@@ -17,7 +17,7 @@
     },
 
     {
-      "setId": 3,
+      "setId": 300,
       "setName": "Paint The Town Red",
       "boxImage": "images/boxart/legendary_painttownred.jpg",
       "yearReleased": 2014,
@@ -25,7 +25,7 @@
 	   "jsonFile":"json_data/legendary_set_painttownred.json"
     },
     {
-      "setId":30,
+      "setId":900,
       "setName": "Annihilation",
       "boxImage": "images/boxart/legendary_annihilation.png",
       "yearReleased": 2021,
@@ -33,7 +33,7 @@
 	   "jsonFile":"json_data/legendary_set_annihilation.json"
     },
     {
-      "setId": 29,
+      "setId": 700,
       "setName": "Into The Cosmos",
       "boxImage": "images/boxart/legendary_into_the_cosmos.png",
       "yearReleased": 2020,
@@ -42,7 +42,7 @@
     },
 
     {
-      "setId": 28,
+      "setId": 800,
       "setName": "Realm Of Kings",
       "boxImage": "images/boxart/legendary_realm_of_kings.png",
       "yearReleased": 2020,

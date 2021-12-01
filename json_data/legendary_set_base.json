@@ -113,7 +113,7 @@
 						"teamName": "Avengers"
 					}
 				]
-			}
+			},
 			{
 				"deckId": 104,
 				"setId": 100,
@@ -150,6 +150,50 @@
 						"teamName": "Avengers"
 					}
 				]
-			}
+			},
+			{
+				"deckId": 170,
+				"setId": 100,
+				"deckImage": "images/cards/masterminds/magneto-01.jpg",
+				"deckName": "Magneto",
+				"deckType": "Mastermind",
+				"cards": [
+					{
+						"deckId": 170,
+						"setId": 100,
+						"cardImage": "images/cards/mastermindsmastermindsmasterminds/magneto-01.jpg",
+						"cardType": "Mastermind",
+						"teamName": "Brotherhood"
+					},
+					{
+						"deckId": 170,
+						"setId": 100,
+						"cardImage": "images/cards/mastermindsmasterminds/magneto-02.jpg",
+						"cardType": "Mastermind Tactic",
+						"teamName": "Brotherhood"
+					},
+					{
+						"deckId": 170,
+						"setId": 100,
+						"cardImage": "images/cards/masterminds/magneto-03.jpg",
+						"cardType": "Mastermind Tactic",
+						"teamName": "Brotherhood"
+					},
+					{
+						"deckId": 170,
+						"setId": 100,
+						"cardImage": "images/cards/masterminds/magneto-04.jpg",
+						"cardType": "Mastermind Tactic",
+						"teamName": "Brotherhood"
+					},
+					{
+						"deckId": 170,
+						"setId": 100,
+						"cardImage": "images/cards/masterminds/magneto-05.jpg",
+						"cardType": "Mastermind Tactic",
+						"teamName": "Brotherhood"
+					}
+				]
+			},
 		]
 	}
