@@ -5,7 +5,7 @@
       "boxImage": "images/boxart/legendary_core.jpg",
       "yearReleased": 2013,
       "numberOfCards": 350,
-	  "jsonFile":"json_data/legendary_set_base.json"
+	  "jsonFile":"json_data/legendary_core.json"
     },
     {
       "setId": 200,
@@ -13,40 +13,78 @@
       "boxImage": "images/boxart/legendary_fantastic_four.jpg",
       "yearReleased": 2013,
       "numberOfCards": 100,
-	  "jsonFile":"json_data/legendary_set_fantastic_four.json"
+	  "jsonFile":"json_data/legendary_fantastic_four.json"
     },
-
     {
       "setId": 300,
+      "setName": "Dark City",
+      "boxImage": "images/boxart/legendary_dark_city.jpg",
+      "yearReleased": 2013,
+      "numberOfCards": 350,
+	   "jsonFile":"json_data/legendary_dark_city.json"
+    },
+    {
+      "setId": 400,
+      "setName": "Villains",
+      "boxImage": "images/boxart/legendary_villains.jpg",
+      "yearReleased": 2015,
+      "numberOfCards": 650,
+	   "jsonFile":"json_data/legendary_villains.json"
+    },
+    {
+      "setId": 500,
       "setName": "Paint The Town Red",
       "boxImage": "images/boxart/legendary_painttownred.jpg",
       "yearReleased": 2014,
       "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_set_painttownred.json"
+	   "jsonFile":"json_data/legendary_painttownred.json"
     },
     {
-      "setId":900,
-      "setName": "Annihilation",
-      "boxImage": "images/boxart/legendary_annihilation.png",
-      "yearReleased": 2021,
+      "setId": 600,
+      "setName": "Guardians Of The Galaxy",
+      "boxImage": "images/boxart/legendary_guardians_of_the_galaxy.jpg",
+      "yearReleased": 2014,
       "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_set_annihilation.json"
+	   "jsonFile":"json_data/legendary_guardians_of_the_galaxy.json"
     },
     {
-      "setId": 700,
-      "setName": "Into The Cosmos",
-      "boxImage": "images/boxart/legendary_into_the_cosmos.png",
-      "yearReleased": 2020,
-      "numberOfCards": 200,
-	   "jsonFile":"json_data/legendary_set_into_the_cosmos.json"
+      "setId":700,
+      "setName": "Villains: Fear Itself",
+      "boxImage": "images/boxart/legendary_villains_fear_itself.jpg",
+      "yearReleased": 2015,
+      "numberOfCards": 100,
+	   "jsonFile":"json_data/legendary_villains_fear_itself.json"
     },
-
     {
       "setId": 800,
-      "setName": "Realm Of Kings",
-      "boxImage": "images/boxart/legendary_realm_of_kings.png",
+      "setName": "Secret Wars Vol 1",
+      "boxImage": "images/boxart/legendary_secret_wars_vol_1.png",
+      "yearReleased": 2015,
+      "numberOfCards": 350,
+	   "jsonFile":"json_data/legendary_secret_wars_vol_1.json"
+    },
+    {
+      "setId": 900,
+      "setName": "Secret Wars Vol 2",
+      "boxImage": "images/boxart/legendary_secret_wars_vol_2.png",
+      "yearReleased": 2015,
+      "numberOfCards": 350,
+	   "jsonFile":"json_data/legendary_secret_wars_vol_2.json"
+    },
+    {
+      "setId": 1000,
+      "setName": "Deadpool",
+      "boxImage": "images/boxart/legendary_deadpool.jpg",
       "yearReleased": 2020,
       "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_set_realm_of_kings.json"
+	   "jsonFile":"json_data/legendary_deadpool.json"
+    },
+    {
+      "setId": 1100,
+      "setName": "Civil War",
+      "boxImage": "images/boxart/legendary_civil_war.jpg",
+      "yearReleased": 2020,
+      "numberOfCards": 100,
+	   "jsonFile":"json_data/legendary_civil_war.json"
     }
   ]

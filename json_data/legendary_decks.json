@@ -1,142 +1,550 @@
 [
+  
   {
-    "deckId":1,
-    "setId": 1,
-    "deckImage": "images/cards/heroes/captain-america-01.jpg",
-    "deckName": "Captain America",
-    "deckType": "Hero"
-  },
-  {
-    "deckId":2,
-    "setId": 1,
-    "deckImage": "images/cards/heroes/iron-man-01.jpg",
-    "deckName": "Iron Man",
-    "deckType": "Hero"
-  },
-  {
-    "deckId":3,
-    "setId": 1,
-    "deckImage": "images/cards/heroes/black-widow-01.jpg",
-    "deckName": "Black Widow",
-    "deckType": "Hero"
-  },
-  {
-    "deckId":4,
-    "setId": 1,
-    "deckImage": "images/cards/heroes/hawkeye-01.jpg",
-    "deckName": "Hawkeye",
-    "deckType": "Hero"
-  },
-  {
-    "deckId":5,
-    "setId": 1,
+    "deckId":105,
+    "setId": 100,
     "deckImage": "images/cards/heroes/cyclops-01.jpg",
     "deckName": "Cyclops",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 105,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/cyclops-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 105,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/cyclops-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 105,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/cyclops-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 105,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/cyclops-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      }
+    ]
   },
   {
-    "deckId":6,
-    "setId": 1,
+    "deckId":106,
+    "setId": 100,
     "deckImage": "images/cards/heroes/deadpool-01.jpg",
     "deckName": "Deadpool",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 106,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/deadpool-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "Mercs For Money"
+      },
+      {
+        "deckId": 106,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/deadpool-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "Mercs For Money"
+      },
+      {
+        "deckId": 106,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/deadpool-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Mercs For Money"
+      },
+      {
+        "deckId": 106,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/deadpool-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Mercs For Money"
+      }
+    ]
   },
   {
-    "deckId":7,
-    "setId": 1,
+    "deckId":107,
+    "setId": 100,
     "deckImage": "images/cards/heroes/emma-frost-01.jpg",
     "deckName": "Emma Frost",
     "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 107,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/emma-frost-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 107,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/emma-frost-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 107,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/emma-frost-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 107,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/emma-frost-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      }
+    ]
   },
   {
-    "deckId":8,
-    "setId": 1,
+    "deckId":108,
+    "setId": 100,
     "deckImage": "images/cards/heroes/gambit-01.jpg",
     "deckName": "Gambit",
     "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 108,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/gambit-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 108,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/gambit-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 108,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/gambit-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 108,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/gambit-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      }
+    ]
   },
   {
-    "deckId":9,
-    "setId": 1,
+    "deckId":109,
+    "setId": 100,
     "deckImage": "images/cards/heroes/hulk-01.jpg",
     "deckName": "Hulk",
     "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 109,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/hulk-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "Avengers"
+      },
+      {
+        "deckId": 109,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/hulk-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "Avengers"
+      },
+      {
+        "deckId": 109,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/hulk-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Avengers"
+      },
+      {
+        "deckId": 109,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/hulk-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Avengers"
+      }
+    ]
   },
   {
-    "deckId":10,
-    "setId": 1,
+    "deckId":110,
+    "setId": 100,
     "deckImage": "images/cards/heroes/nick-fury-01.jpg",
     "deckName": "Nick Fury",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 110,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/nick-fury-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "S.H.I.E.L.D."
+      },
+      {
+        "deckId": 110,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/nick-fury-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "S.H.I.E.L.D."
+      },
+      {
+        "deckId": 110,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/nick-fury-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "S.H.I.E.L.D."
+      },
+      {
+        "deckId": 110,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/nick-fury-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "S.H.I.E.L.D."
+      }
+    ]
   },
   {
-    "deckId":11,
-    "setId": 1,
+    "deckId":111,
+    "setId": 100,
     "deckImage": "images/cards/heroes/rogue-01.jpg",
     "deckName": "Rogue",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 111,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/rogue-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 111,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/rogue-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 111,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/rogue-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 111,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/rogue-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      }
+    ]
   },
   {
-    "deckId":12,
-    "setId": 1,
+    "deckId":112,
+    "setId": 100,
     "deckImage": "images/cards/heroes/spider-man-01.jpg",
     "deckName": "Spider-Man",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 112,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/spider-man-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "Spider-Friends"
+      },
+      {
+        "deckId": 112,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/spider-man-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "Spider-Friends"
+      },
+      {
+        "deckId": 112,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/spider-man-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Spider-Friends"
+      },
+      {
+        "deckId": 112,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/spider-man-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Spider-Friends"
+      }
+    ]
   },
   {
-    "deckId":13,
-    "setId": 1,
+    "deckId":113,
+    "setId": 100,
     "deckImage": "images/cards/heroes/thor-01.jpg",
     "deckName": "Thor",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 113,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/thor-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "Avengers"
+      },
+      {
+        "deckId": 113,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/thor-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "Avengers"
+      },
+      {
+        "deckId": 113,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/thor-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Avengers"
+      },
+      {
+        "deckId": 113,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/thor-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "Avengers"
+      }
+    ]
   },
   {
-    "deckId":14,
-    "setId": 1,
+    "deckId":114,
+    "setId": 100,
     "deckImage": "images/cards/heroes/wolverine-01.jpg",
     "deckName": "Wolverine",
-    "deckType": "Hero"
+    "deckType": "Hero",
+    "cards": [
+      {
+        "deckId": 114,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/wolverine-01.jpg",
+        "cardType": "Hero-Rare",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 114,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/wolverine-02.jpg",
+        "cardType": "Hero-Uncommon",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 114,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/wolverine-03.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      },
+      {
+        "deckId": 114,
+        "setId": 100,
+        "cardImage": "images/cards/heroes/wolverine-04.jpg",
+        "cardType": "Hero-Common",
+        "teamName": "X-Men"
+      }
+    ]
   },
   {
-    "deckId":15,
-    "setId": 1,
+    "deckId":115,
+    "setId": 100,
     "deckImage": "images/cards/masterminds/dr-doom-01.jpg",
     "deckName": "Dr. Doom",
-    "deckType": "Mastermind"
+    "deckType": "Mastermind",
+    "cards": [
+      {
+        "deckId": 115,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/dr-doom-01.jpg",
+        "cardType": "Mastermind",
+        "teamName": "Dr. Doom"
+      },
+      {
+        "deckId": 115,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/dr-doom-02.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Dr. Doom"
+      },
+      {
+        "deckId": 115,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/dr-doom-03.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Dr. Doom"
+      },
+      {
+        "deckId": 115,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/dr-doom-04.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Dr. Doom"
+      },
+      {
+        "deckId": 115,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-05.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Dr. Doom"
+      }
+    ]
   },
   {
-    "deckId":16,
-    "setId": 1,
+    "deckId":116,
+    "setId": 100,
     "deckImage": "images/cards/masterminds/loki-01.jpg",
     "deckName": "Loki",
-    "deckType": "Mastermind"
+    "deckType": "Mastermind",
+    "cards": [
+      {
+        "deckId": 116,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/loki-01.jpg",
+        "cardType": "Mastermind",
+        "teamName": "Foes Of Asgard"
+      },
+      {
+        "deckId": 170,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/loki-02.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Foes Of Asgard"
+      },
+      {
+        "deckId": 116,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/loki-03.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Foes Of Asgard"
+      },
+      {
+        "deckId": 116,
+        "setId": 116,
+        "cardImage": "images/cards/masterminds/loki-04.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Foes Of Asgard"
+      },
+      {
+        "deckId": 116,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-05.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Foes Of Asgard"
+      }
+    ]
   },
   {
-    "deckId":17,
-    "setId": 1,
+    "deckId":117,
+    "setId": 100,
     "deckImage": "images/cards/masterminds/magneto-01.jpg",
     "deckName": "Magneto",
-    "deckType": "Mastermind"
+    "deckType": "Mastermind",
+    "cards": [
+      {
+        "deckId": 117,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-01.jpg",
+        "cardType": "Mastermind",
+        "teamName": "Brotherhood"
+      },
+      {
+        "deckId": 117,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-02.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Brotherhood"
+      },
+      {
+        "deckId": 117,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-03.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Brotherhood"
+      },
+      {
+        "deckId": 117,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-04.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Brotherhood"
+      },
+      {
+        "deckId": 170,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/magneto-05.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "Brotherhood"
+      }
+    ]
   },
   {
-    "deckId":18,
-    "setId": 1,
+    "deckId":118,
+    "setId": 100,
     "deckImage": "images/cards/masterminds/red-skull-01.jpg",
     "deckName": "Red Skull",
-    "deckType": "Mastermind"
-  },
-  {
-    "deckId":20,
-    "setId": 2,
-    "deckImage": "images/cards/heroes/mr-fantastic-01.jpg",
-    "deckName": "Mr. Fantastic",
-    "deckType": "Hero"
-  },
-  {
-    "deckId":21,
-    "setId": 2,
-    "deckImage": "images/cards/heroes/thing-01.jpg",
-    "deckName": "The Thing",
-    "deckType": "Hero"
+    "deckType": "Mastermind",
+    "cards": [
+      {
+        "deckId": 118,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/red-skull-01.jpg",
+        "cardType": "Mastermind",
+        "teamName": "HYDRA"
+      },
+      {
+        "deckId": 118,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/red-skull-02.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "HYDRA"
+      },
+      {
+        "deckId": 118,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/red-skull-03.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "HYDRA"
+      },
+      {
+        "deckId": 118,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/red-skull-04.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "HYDRA"
+      },
+      {
+        "deckId": 118,
+        "setId": 100,
+        "cardImage": "images/cards/masterminds/red-skull-05.jpg",
+        "cardType": "Mastermind Tactic",
+        "teamName": "HYDRA"
+      }
+    ]
   }
+ 
 ]
