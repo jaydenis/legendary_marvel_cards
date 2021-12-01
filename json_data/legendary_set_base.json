@@ -114,5 +114,42 @@
 					}
 				]
 			}
+			{
+				"deckId": 104,
+				"setId": 100,
+				"deckImage": "images/cards/heroes/hawkeye-01.jpg",
+				"deckName": "Hawkeye",
+				"deckType": "Hero",
+				"cards": [
+					{
+						"deckId": 104,
+						"setId": 100,
+						"cardImage": "images/cards/heroes/hawkeye-01.jpg",
+						"cardType": "Hero-Rare",
+						"teamName": "Avengers"
+					},
+					{
+						"deckId": 104,
+						"setId": 100,
+						"cardImage": "images/cards/heroes/hawkeye-02.jpg",
+						"cardType": "Hero-Uncommon",
+						"teamName": "Avengers"
+					},
+					{
+						"deckId": 104,
+						"setId": 100,
+						"cardImage": "images/cards/heroes/hawkeye-03.jpg",
+						"cardType": "Hero-Common",
+						"teamName": "Avengers"
+					},
+					{
+						"deckId": 104,
+						"setId": 100,
+						"cardImage": "images/cards/heroes/hawkeye-04.jpg",
+						"cardType": "Hero-Common",
+						"teamName": "Avengers"
+					}
+				]
+			}
 		]
 	}
