@@ -160,14 +160,14 @@
 				{
 					"deckId": 170,
 					"setId": 100,
-					"cardImage": "images/cards/mastermindsmastermindsmasterminds/magneto-01.jpg",
+					"cardImage": "images/cards/masterminds/magneto-01.jpg",
 					"cardType": "Mastermind",
 					"teamName": "Brotherhood"
 				},
 				{
 					"deckId": 170,
 					"setId": 100,
-					"cardImage": "images/cards/mastermindsmasterminds/magneto-02.jpg",
+					"cardImage": "images/cards/masterminds/magneto-02.jpg",
 					"cardType": "Mastermind Tactic",
 					"teamName": "Brotherhood"
 				},

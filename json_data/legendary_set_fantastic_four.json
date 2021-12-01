@@ -1,122 +1,117 @@
-
-    {
-      "setId": 200,
-	  "decks":[
-		  {
-		    "deckId":201,
-		    "setId": 200,
-		    "deckImage": "images/cards/heroes/mr-fantastic-01.jpg",
-		    "deckName": "Mr. Fantastic",
-		    "deckType": "Hero",
-				"cards":[
-					{
-					    "deckId":201,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/mr-fantasticmr-fantastic-01.jpg",
-					    "cardType": "Hero-Rare",
-					    "teamName": "Fantastic Four",
-					  },
-					  {
-					    "deckId":201,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/mr-fantastic-02.jpg",
-					    "cardType": "Hero-Uncommon",
-					    "teamName": "Fantastic Four",
-					  },
-					  {
-					    "deckId":201,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/mr-fantastic-03.jpg",
-					    "cardName": "Fantastic Four Assemble",
-					    "cardType": "Hero-Common",
-					    "teamName": "Fantastic Four",
-					  },
-					  {
-					    "deckId":201,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/mr-fantastic-04.jpg",
-					    "cardType": "Hero-Common",
-					    "teamName": "Fantastic Four",
-					  }
-				]
-		  },
-		  {
-		      "deckId":202,
-		      "setId": 200,
-		      "deckImage": "images/cards/heroes/thing-01.jpg",
-		      "deckName": "Thingn",
-		      "deckType": "Hero",
-			  "cards":[
-				  {
-				      "deckId":202,
-				      "setId": 200,
-				      "cardImage": "images/cards/heroes/thing-01.jpg",
-				      "cardType": "Hero-Rare",
-				      "teamName": "Fantastic Four",
-				    },
-				    {
-				      "deckId":202,
-				      "setId": 200,
-				      "cardImage": "images/cards/heroes/thing-02.jpg",
-				      "cardType": "Hero-Uncommon",
-				      "teamName": "Fantastic Four",
-				    },
-				    {
-				      "deckId":202,
-				      "setId": 200,
-				      "cardImage": "images/cards/heroes/thing-03.jpg",
-				      "cardType": "Hero-Common",
-				      "teamName": "Fantastic Four",
-				    },
-				    {
-				      "deckId":202,
-				      "setId": 200,
-				      "cardImage": "images/cards/heroes/thing-04.jpg",
-				      "cardType": "Hero-Common",
-				      "teamName": "Fantastic Four",
-				    },
-			  ]
-		  },
-		  
-			  {
-			    "deckId":203,
-			    "setId": 200,
-			    "deckImage": "images/cards/heroes/human-torch-01.jpg",
-			    "deckName": "Human Torch",
-			    "deckType": "Hero",
-				"cards":[
-					{
-					    "deckId":203,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/human-torch-01.jpg",
-					    "cardType": "Hero-Rare",
-					    "teamName": "Fantastic Four",
-					  },
-					  {
-					    "deckId":203,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/human-torch-02.jpg",
-					    "cardType": "Hero-Uncommon",
-					    "teamName": "Fantastic Four",
-					  },
-					  {
-					    "deckId":203,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/human-torch-03.jpg",
-					    "cardType": "Hero-Common",
-					    "teamName": "Fantastic Four",
-					  },
-					  {
-					    "deckId":203,
-					    "setId": 200,
-					    "cardImage": "images/cards/heroes/human-torch-04.jpg",
-					    "cardType": "Hero-Common",
-					    "teamName": "Fantastic Four",
-					  },
-				]
-			  }
-		  
-		  
-	  ]
-    }
-	
+{
+	"setId": 200,
+	"decks": [
+		{
+			"deckId": 201,
+			"setId": 200,
+			"deckImage": "images/cards/heroes/mr-fantastic-01.jpg",
+			"deckName": "Mr. Fantastic",
+			"deckType": "Hero",
+			"cards": [
+				{
+					"deckId": 201,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/mr-fantasticmr-fantastic-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 201,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/mr-fantastic-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 201,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/mr-fantastic-03.jpg",
+					"cardName": "Fantastic Four Assemble",
+					"cardType": "Hero-Common",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 201,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/mr-fantastic-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Fantastic Four"
+				}
+			]
+		},
+		{
+			"deckId": 202,
+			"setId": 200,
+			"deckImage": "images/cards/heroes/thing-01.jpg",
+			"deckName": "Thingn",
+			"deckType": "Hero",
+			"cards": [
+				{
+					"deckId": 202,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/thing-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 202,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/thing-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 202,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/thing-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 202,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/thing-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Fantastic Four"
+				}
+			]
+		},
+		{
+			"deckId": 203,
+			"setId": 200,
+			"deckImage": "images/cards/heroes/human-torch-01.jpg",
+			"deckName": "Human Torch",
+			"deckType": "Hero",
+			"cards": [
+				{
+					"deckId": 203,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/human-torch-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 203,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/human-torch-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 203,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/human-torch-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Fantastic Four"
+				},
+				{
+					"deckId": 203,
+					"setId": 200,
+					"cardImage": "images/cards/heroes/human-torch-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Fantastic Four"
+				}
+			]
+		}
+	]
+}
