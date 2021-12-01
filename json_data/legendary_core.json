@@ -696,6 +696,43 @@
 				"teamName": "HYDRA"
 			  }
 			]
+		  },
+		  {
+			"deckId":119,
+			"setId": 100,
+			"deckImage": "images/cards/villains/hydra-01.jpg",
+			"deckName": "HYDRA",
+			"deckType": "Villain",
+			"cards": [
+			  {
+				"deckId": 119,
+				"setId": 100,
+				"cardImage": "images/cards/villains/hydra-01.jpg",
+				"cardType": "Villain",
+				"teamName": "HYDRA"
+			  },
+			  {
+				"deckId": 119,
+				"setId": 100,
+				"cardImage": "images/cards/villains/hydra-02.jpg",
+				"cardType": "Villain",
+				"teamName": "HYDRA"
+			  },
+			  {
+				"deckId": 119,
+				"setId": 100,
+				"cardImage": "images/cards/villains/hydra-03.jpg",
+				"cardType": "Villain",
+				"teamName": "HYDRA"
+			  },
+			  {
+				"deckId": 119,
+				"setId": 100,
+				"cardImage": "images/cards/villains/hydra-04.jpg",
+				"cardType": "Villain",
+				"teamName": "HYDRA"
+			  }			  
+			]
 		  }
 	]
 }
