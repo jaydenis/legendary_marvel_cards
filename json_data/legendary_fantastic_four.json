@@ -151,166 +151,166 @@
 			]
 		},
 		{
-			"deckId":205,
+			"deckId": 205,
 			"setId": 200,
 			"deckImage": "images/cards/masterminds/mole-man-01.jpg",
 			"deckName": "Mole Man",
 			"deckType": "Mastermind",
 			"cards": [
-			  {
-				"deckId": 205,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/mole-man-01.jpg",
-				"cardType": "Mastermind",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 205,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/mole-man-02.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 205,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/mole-man-03.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 205,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/mole-man-04.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 205,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/mole-man-05.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Subterranea"
-			  }
+				{
+					"deckId": 205,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/mole-man-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 205,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/mole-man-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 205,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/mole-man-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 205,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/mole-man-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 205,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/mole-man-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Subterranea"
+				}
 			]
-		  },
-		  {
-			"deckId":206,
+		},
+		{
+			"deckId": 206,
 			"setId": 200,
 			"deckImage": "images/cards/masterminds/galactus-01.jpg",
 			"deckName": "Galactus",
 			"deckType": "Mastermind",
 			"cards": [
-			  {
-				"deckId": 206,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/galactus-01.jpg",
-				"cardType": "Mastermind",
-				"teamName": "Galactus"
-			  },
-			  {
-				"deckId": 205,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/galactus-02.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Galactus"
-			  },
-			  {
-				"deckId": 206,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/galactus-03.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Galactus"
-			  },
-			  {
-				"deckId": 206,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/galactus-04.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Galactus"
-			  },
-			  {
-				"deckId": 206,
-				"setId": 200,
-				"cardImage": "images/cards/masterminds/galactus-05.jpg",
-				"cardType": "Mastermind Tactic",
-				"teamName": "Galactus"
-			  }
+				{
+					"deckId": 206,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/galactus-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Galactus"
+				},
+				{
+					"deckId": 205,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/galactus-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Galactus"
+				},
+				{
+					"deckId": 206,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/galactus-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Galactus"
+				},
+				{
+					"deckId": 206,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/galactus-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Galactus"
+				},
+				{
+					"deckId": 206,
+					"setId": 200,
+					"cardImage": "images/cards/masterminds/galactus-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Galactus"
+				}
 			]
-		  },
-		  {
-			"deckId":207,
+		},
+		{
+			"deckId": 207,
 			"setId": 200,
 			"deckImage": "images/cards/villains/subterranea-01.jpg",
 			"deckName": "Subterranea",
 			"deckType": "Villains",
 			"cards": [
-			  {
-				"deckId": 207,
-				"setId": 200,
-				"cardImage": "images/cards/villains/subterranea-01.jpg",
-				"cardType": "Villain",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 207,
-				"setId": 200,
-				"cardImage": "images/cards/villains/subterranea-02.jpg",
-				"cardType": "Villain",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 207,
-				"setId": 200,
-				"cardImage": "images/cards/villains/subterranea-03.jpg",
-				"cardType": "Villain",
-				"teamName": "Subterranea"
-			  },
-			  {
-				"deckId": 207,
-				"setId": 200,
-				"cardImage": "images/cards/villains/subterranea-04.jpg",
-				"cardType": "Villain",
-				"teamName": "Subterranea"
-			  }			  
+				{
+					"deckId": 207,
+					"setId": 200,
+					"cardImage": "images/cards/villains/subterranea-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 207,
+					"setId": 200,
+					"cardImage": "images/cards/villains/subterranea-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 207,
+					"setId": 200,
+					"cardImage": "images/cards/villains/subterranea-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Subterranea"
+				},
+				{
+					"deckId": 207,
+					"setId": 200,
+					"cardImage": "images/cards/villains/subterranea-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Subterranea"
+				}
 			]
-		  },
-		  {
-			"deckId":208,
+		},
+		{
+			"deckId": 208,
 			"setId": 200,
 			"deckImage": "images/cards/villains/heralds-of-galactus-01.jpg",
 			"deckName": "Heralds Of Galactus",
 			"deckType": "Villains",
 			"cards": [
-			  {
-				"deckId": 208,
-				"setId": 200,
-				"cardImage": "images/cards/villains/heralds-of-galactus-01.jpg",
-				"cardType": "Villain",
-				"teamName": "Heralds Of Galactus"
-			  },
-			  {
-				"deckId": 208,
-				"setId": 200,
-				"cardImage": "images/cards/villains/heralds-of-galactus-02.jpg",
-				"cardType": "Villain",
-				"teamName": "Heralds Of Galactus"
-			  },
-			  {
-				"deckId": 208,
-				"setId": 200,
-				"cardImage": "images/cards/villains/heralds-of-galactus-03.jpg",
-				"cardType": "Villain",
-				"teamName": "Heralds Of Galactus"
-			  },
-			  {
-				"deckId": 208,
-				"setId": 200,
-				"cardImage": "images/cards/villains/heralds-of-galactus-04.jpg",
-				"cardType": "Villain",
-				"teamName": "Heralds Of Galactus"
-			  }			  
+				{
+					"deckId": 208,
+					"setId": 200,
+					"cardImage": "images/cards/villains/heralds-of-galactus-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Heralds Of Galactus"
+				},
+				{
+					"deckId": 208,
+					"setId": 200,
+					"cardImage": "images/cards/villains/heralds-of-galactus-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Heralds Of Galactus"
+				},
+				{
+					"deckId": 208,
+					"setId": 200,
+					"cardImage": "images/cards/villains/heralds-of-galactus-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Heralds Of Galactus"
+				},
+				{
+					"deckId": 208,
+					"setId": 200,
+					"cardImage": "images/cards/villains/heralds-of-galactus-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Heralds Of Galactus"
+				}
 			]
-		  }
+		}
 	]
 }
