@@ -733,6 +733,81 @@
 				"teamName": "HYDRA"
 			  }			  
 			]
+		  },
+		  {
+			"deckId":120,
+			"setId": 100,
+			"deckImage": "images/cards/villains/brotherhood.jpg",
+			"deckName": "Brotherhood",
+			"deckType": "Villain",
+			"cards": [
+			  {
+				"deckId": 120,
+				"setId": 100,
+				"cardImage": "images/cards/villains/brotherhood-01.jpg",
+				"cardType": "Villain",
+				"teamName": "Brotherhood"
+			  },
+			  {
+				"deckId": 120,
+				"setId": 100,
+				"cardImage": "images/cards/villains/brotherhood-02.jpg",
+				"cardType": "Villain",
+				"teamName": "Brotherhood"
+			  },
+			  {
+				"deckId": 120,
+				"setId": 100,
+				"cardImage": "images/cards/villains/brotherhood-03.jpg",
+				"cardType": "Villain",
+				"teamName": "Brotherhood"
+			  },
+			  {
+				"deckId": 120,
+				"setId": 100,
+				"cardImage": "images/cards/villains/brotherhood-04.jpg",
+				"cardType": "Villain",
+				"teamName": "Brotherhood"
+			  }			  
+			]
+		  },
+		  {
+			"deckId":121,
+			"setId": 100,
+			"deckImage": "images/cards/villains/masters-of-evil.jpg",
+			"deckName": "Masters Of Evil",
+			"deckType": "Villain",
+			"cards": [
+			  {
+				"deckId": 121,
+				"setId": 100,
+				"cardImage": "images/cards/villains/masters-of-evil-01.jpg",
+				"cardType": "Villain",
+				"teamName": "Masters Of Evil"
+			  },
+			  {
+				"deckId": 121,
+				"setId": 100,
+				"cardImage": "images/cards/villains/masters-of-evil-02.jpg",
+				"cardType": "Villain",
+				"teamName": "Masters Of Evil"
+			  },
+			  {
+				"deckId": 121,
+				"setId": 100,
+				"cardImage": "images/cards/villains/masters-of-evil-03.jpg",
+				"cardType": "Villain",
+				"teamName": "Masters Of Evil"
+			  },
+			  {
+				"deckId": 121,
+				"setId": 100,
+				"cardImage": "images/cards/villains/brotherhood-04.jpg",
+				"cardType": "Villain",
+				"teamName": "Masters Of Evil"
+			  }			  
+			]
 		  }
+		  
 	]
 }
