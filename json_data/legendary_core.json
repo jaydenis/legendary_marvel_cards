@@ -6,7 +6,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/captain-america-01.jpg",
 			"deckName": "Captain America",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 101,
@@ -44,7 +44,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/iron-man-01.jpg",
 			"deckName": "Iron Man",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 102,
@@ -81,7 +81,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/black-widow-01.jpg",
 			"deckName": "Black Widow",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 103,
@@ -118,7 +118,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/hawkeye-01.jpg",
 			"deckName": "Hawkeye",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 104,
@@ -156,7 +156,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/cyclops-01.jpg",
 			"deckName": "Cyclops",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 105,
@@ -193,7 +193,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/deadpool-01.jpg",
 			"deckName": "Deadpool",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 106,
@@ -230,7 +230,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/emma-frost-01.jpg",
 			"deckName": "Emma Frost",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 107,
@@ -267,7 +267,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/gambit-01.jpg",
 			"deckName": "Gambit",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 108,
@@ -304,7 +304,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/hulk-01.jpg",
 			"deckName": "Hulk",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 109,
@@ -341,7 +341,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/nick-fury-01.jpg",
 			"deckName": "Nick Fury",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 110,
@@ -378,7 +378,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/rogue-01.jpg",
 			"deckName": "Rogue",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 111,
@@ -415,7 +415,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/spider-man-01.jpg",
 			"deckName": "Spider-Man",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 112,
@@ -452,7 +452,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/thor-01.jpg",
 			"deckName": "Thor",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 113,
@@ -489,7 +489,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/heroes/wolverine-01.jpg",
 			"deckName": "Wolverine",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 			  {
 				"deckId": 114,
@@ -526,7 +526,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/masterminds/dr-doom-01.jpg",
 			"deckName": "Dr. Doom",
-			"deckType": "Mastermind",
+			"deckType": "Masterminds",
 			"cards": [
 			  {
 				"deckId": 115,
@@ -570,7 +570,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/masterminds/loki-01.jpg",
 			"deckName": "Loki",
-			"deckType": "Mastermind",
+			"deckType": "Masterminds",
 			"cards": [
 			  {
 				"deckId": 116,
@@ -614,7 +614,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/masterminds/magneto-01.jpg",
 			"deckName": "Magneto",
-			"deckType": "Mastermind",
+			"deckType": "Masterminds",
 			"cards": [
 			  {
 				"deckId": 117,
@@ -658,7 +658,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/masterminds/red-skull-01.jpg",
 			"deckName": "Red Skull",
-			"deckType": "Mastermind",
+			"deckType": "Masterminds",
 			"cards": [
 			  {
 				"deckId": 118,
@@ -702,7 +702,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/villains/hydra-01.jpg",
 			"deckName": "HYDRA",
-			"deckType": "Villain",
+			"deckType": "Villains",
 			"cards": [
 			  {
 				"deckId": 119,
@@ -739,7 +739,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/villains/brotherhood.jpg",
 			"deckName": "Brotherhood",
-			"deckType": "Villain",
+			"deckType": "Villains",
 			"cards": [
 			  {
 				"deckId": 120,
@@ -776,7 +776,7 @@
 			"setId": 100,
 			"deckImage": "images/cards/villains/masters-of-evil.jpg",
 			"deckName": "Masters Of Evil",
-			"deckType": "Villain",
+			"deckType": "Villains",
 			"cards": [
 			  {
 				"deckId": 121,

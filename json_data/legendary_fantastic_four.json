@@ -6,7 +6,7 @@
 			"setId": 200,
 			"deckImage": "images/cards/heroes/mr-fantastic-01.jpg",
 			"deckName": "Mr. Fantastic",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 201,
@@ -44,7 +44,7 @@
 			"setId": 200,
 			"deckImage": "images/cards/heroes/thing-01.jpg",
 			"deckName": "Thingn",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 202,
@@ -81,7 +81,7 @@
 			"setId": 200,
 			"deckImage": "images/cards/heroes/human-torch-01.jpg",
 			"deckName": "Human Torch",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 203,
@@ -118,7 +118,7 @@
 			"setId": 200,
 			"deckImage": "images/cards/heroes/invisible-woman-01.jpg",
 			"deckName": "Invisible Woman",
-			"deckType": "Hero",
+			"deckType": "Heroes",
 			"cards": [
 				{
 					"deckId": 204,
@@ -155,7 +155,7 @@
 			"setId": 200,
 			"deckImage": "images/cards/masterminds/mole-man-01.jpg",
 			"deckName": "Mole Man",
-			"deckType": "Mastermind",
+			"deckType": "Masterminds",
 			"cards": [
 				{
 					"deckId": 205,
@@ -199,7 +199,7 @@
 			"setId": 200,
 			"deckImage": "images/cards/masterminds/galactus-01.jpg",
 			"deckName": "Galactus",
-			"deckType": "Mastermind",
+			"deckType": "Masterminds",
 			"cards": [
 				{
 					"deckId": 206,
