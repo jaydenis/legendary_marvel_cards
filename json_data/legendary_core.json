@@ -811,7 +811,7 @@
 		  {
 			"deckId":122,
 			"setId": 100,
-			"deckImage": "images/cards/henchmen/doombot-legion.jpg",
+			"deckImage": "images/cards/henchmen/henchmen.jpg",
 			"deckName": "Henchmen",
 			"deckType": "Henchmen",
 			"cards": [
