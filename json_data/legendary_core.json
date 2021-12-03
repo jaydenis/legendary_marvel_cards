@@ -832,22 +832,14 @@
 			  {
 				"deckId": 122,
 				"setId": 100,
-<<<<<<< HEAD
 				"cardImage": "images/cards/henchmen/sentinel.jpg",
-=======
-				"cardImage": "images/cards/villains/sentinel.jpg",
->>>>>>> bbf46c60c95a6583f77d8151470234975c514fcb
 				"cardType": "Henchmen",
 				"teamName": "Sentinel"
 			  },
 			  {
 				"deckId": 122,
 				"setId": 100,
-<<<<<<< HEAD
 				"cardImage": "images/cards/henchmen/hand-ninjas.jpg",
-=======
-				"cardImage": "images/cards/villains/hand-ninjas.jpg",
->>>>>>> bbf46c60c95a6583f77d8151470234975c514fcb
 				"cardType": "Villain",
 				"teamName": "Hand Ninjas"
 			  }			  
