@@ -807,6 +807,43 @@
 				"teamName": "Masters Of Evil"
 			  }			  
 			]
+		  },
+		  {
+			"deckId":122,
+			"setId": 100,
+			"deckImage": "images/cards/henchmen/doombot-legion.jpg",
+			"deckName": "Henchmen",
+			"deckType": "Henchmen",
+			"cards": [
+			  {
+				"deckId": 122,
+				"setId": 100,
+				"cardImage": "images/cards/henchmen/mandroid.jpg",
+				"cardType": "Henchmen",
+				"teamName": "Mandroid"
+			  },
+			  {
+				"deckId": 122,
+				"setId": 100,
+				"cardImage": "images/cards/henchmen/doombot-legion.jpg",
+				"cardType": "Henchmen",
+				"teamName": "Doombot"
+			  },
+			  {
+				"deckId": 122,
+				"setId": 100,
+				"cardImage": "images/cards/henchmen/sentinel.jpg",
+				"cardType": "Henchmen",
+				"teamName": "Sentinel"
+			  },
+			  {
+				"deckId": 122,
+				"setId": 100,
+				"cardImage": "images/cards/henchmen/hand-ninjas.jpg",
+				"cardType": "Villain",
+				"teamName": "Hand Ninjas"
+			  }			  
+			]
 		  }
 		  
 	]
