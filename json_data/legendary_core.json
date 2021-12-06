@@ -1000,6 +1000,71 @@
 					"carName": "-"
 				}
 			]
+		},
+		{
+			"deckId": 124,
+			"setId": 100,
+			"deckImage": "images/cards/other/shield-agent.jpg",
+			"deckName": "General",
+			"deckType": "General",
+			"cards": [
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/shield-agent.jpg",
+					"cardType": "General",
+					"teamName": "S.H.I.E.L.D.",
+					"carName": "S.H.I.E.L.D. Agent"
+				},
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/shield-trooper.jpg",
+					"cardType": "General",
+					"teamName": "S.H.I.E.L.D.",
+					"carName": "S.H.I.E.L.D. Trooper"
+				},
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/shield-officer.jpg",
+					"cardType": "General",
+					"teamName": "S.H.I.E.L.D.",
+					"carName": "S.H.I.E.L.D. Officer"
+				},
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/master-strike.jpg",
+					"cardType": "General",
+					"teamName": "-",
+					"carName": "Master Strike"
+				},
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/scheme-twist.jpg",
+					"cardType": "General",
+					"teamName": "-",
+					"carName": "Scheme Twist"
+				},
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/wound.jpg",
+					"cardType": "General",
+					"teamName": "-",
+					"carName": "Wound"
+				},
+				{
+					"deckId": 123,
+					"setId": 100,
+					"cardImage": "images/cards/other/bystanders.jpg",
+					"cardType": "General",
+					"teamName": "-",
+					"carName": "Bystander"
+				}
+			]
 		}
 	]
 }
