@@ -13,14 +13,16 @@
 					"setId": 100,
 					"cardImage": "images/cards/heroes/captain-america-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 101,
 					"setId": 100,
 					"cardImage": "images/cards/heroes/captain-america-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 101,
@@ -28,14 +30,16 @@
 					"cardImage": "images/cards/heroes/captain-america-03.jpg",
 					"cardName": "Avengers Assemble",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 101,
 					"setId": 100,
 					"cardImage": "images/cards/heroes/captain-america-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				}
 			]
 		},
@@ -51,14 +55,16 @@
 					"setId": 100,
 					"cardImage": "images/cards/heroes/iron-man-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 102,
 					"setId": 100,
 					"cardImage": "images/cards/heroes/iron-man-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 102,
@@ -72,7 +78,8 @@
 					"setId": 100,
 					"cardImage": "images/cards/heroes/iron-man-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				}
 			]
 		},
@@ -125,28 +132,32 @@
 					"setId": 100,
 					"cardImage": "images/cards/heroes/hawkeye-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 104,
 					"setId": 100,
 					"cardImage": "images/cards/heroes/hawkeye-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 104,
 					"setId": 100,
 					"cardImage": "images/cards/heroes/hawkeye-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				},
 				{
 					"deckId": 104,
 					"setId": 100,
 					"cardImage": "images/cards/heroes/hawkeye-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"carName": "-"
 				}
 			]
 		},
@@ -163,28 +174,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/cyclops-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 105,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/cyclops-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 105,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/cyclops-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 105,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/cyclops-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -200,28 +215,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/deadpool-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "Mercs For Money"
+				"teamName": "Mercs For Money",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 106,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/deadpool-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "Mercs For Money"
+				"teamName": "Mercs For Money",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 106,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/deadpool-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Mercs For Money"
+				"teamName": "Mercs For Money",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 106,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/deadpool-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Mercs For Money"
+				"teamName": "Mercs For Money",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -237,28 +256,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/emma-frost-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 107,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/emma-frost-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 107,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/emma-frost-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 107,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/emma-frost-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -274,28 +297,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/gambit-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 108,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/gambit-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 108,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/gambit-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 108,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/gambit-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -311,28 +338,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/hulk-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 109,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/hulk-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 109,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/hulk-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 109,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/hulk-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -348,28 +379,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/nick-fury-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "S.H.I.E.L.D."
+				"teamName": "S.H.I.E.L.D.",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 110,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/nick-fury-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "S.H.I.E.L.D."
+				"teamName": "S.H.I.E.L.D.",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 110,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/nick-fury-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "S.H.I.E.L.D."
+				"teamName": "S.H.I.E.L.D.",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 110,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/nick-fury-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "S.H.I.E.L.D."
+				"teamName": "S.H.I.E.L.D.",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -385,28 +420,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/rogue-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 111,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/rogue-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 111,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/rogue-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 111,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/rogue-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -422,28 +461,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/spider-man-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "Spider-Friends"
+				"teamName": "Spider-Friends",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 112,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/spider-man-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "Spider-Friends"
+				"teamName": "Spider-Friends",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 112,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/spider-man-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Spider-Friends"
+				"teamName": "Spider-Friends",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 112,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/spider-man-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Spider-Friends"
+				"teamName": "Spider-Friends",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -459,28 +502,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/thor-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 113,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/thor-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 113,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/thor-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 113,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/thor-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "Avengers"
+				"teamName": "Avengers",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -496,28 +543,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/heroes/wolverine-01.jpg",
 				"cardType": "Hero-Rare",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 114,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/wolverine-02.jpg",
 				"cardType": "Hero-Uncommon",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 114,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/wolverine-03.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 114,
 				"setId": 100,
 				"cardImage": "images/cards/heroes/wolverine-04.jpg",
 				"cardType": "Hero-Common",
-				"teamName": "X-Men"
+				"teamName": "X-Men",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -533,35 +584,40 @@
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/dr-doom-01.jpg",
 				"cardType": "Mastermind",
-				"teamName": "Dr. Doom"
+				"teamName": "Dr. Doom",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 115,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/dr-doom-02.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Dr. Doom"
+				"teamName": "Dr. Doom",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 115,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/dr-doom-03.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Dr. Doom"
+				"teamName": "Dr. Doom",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 115,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/dr-doom-04.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Dr. Doom"
+				"teamName": "Dr. Doom",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 115,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/dr-doom-05.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Dr. Doom"
+				"teamName": "Dr. Doom",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -577,14 +633,16 @@
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/loki-01.jpg",
 				"cardType": "Mastermind",
-				"teamName": "Foes Of Asgard"
+				"teamName": "Foes Of Asgard",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 116,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/loki-02.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Foes Of Asgard"
+				"teamName": "Foes Of Asgard",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 116,
@@ -598,14 +656,16 @@
 				"setId": 116,
 				"cardImage": "images/cards/masterminds/loki-04.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Foes Of Asgard"
+				"teamName": "Foes Of Asgard",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 116,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/loki-05.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Foes Of Asgard"
+				"teamName": "Foes Of Asgard",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -621,35 +681,40 @@
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/magneto-01.jpg",
 				"cardType": "Mastermind",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 117,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/magneto-02.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 117,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/magneto-03.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 117,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/magneto-04.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 117,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/magneto-05.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -665,35 +730,40 @@
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/red-skull-01.jpg",
 				"cardType": "Mastermind",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 118,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/red-skull-02.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 118,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/red-skull-03.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 118,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/red-skull-04.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 118,
 				"setId": 100,
 				"cardImage": "images/cards/masterminds/red-skull-05.jpg",
 				"cardType": "Mastermind Tactic",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  }
 			]
 		  },
@@ -709,28 +779,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/villains/hydra-01.jpg",
 				"cardType": "Villain",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 119,
 				"setId": 100,
 				"cardImage": "images/cards/villains/hydra-02.jpg",
 				"cardType": "Villain",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 119,
 				"setId": 100,
 				"cardImage": "images/cards/villains/hydra-03.jpg",
 				"cardType": "Villain",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 119,
 				"setId": 100,
 				"cardImage": "images/cards/villains/hydra-04.jpg",
 				"cardType": "Villain",
-				"teamName": "HYDRA"
+				"teamName": "HYDRA",
+				"carName": "-"
 			  }			  
 			]
 		  },
@@ -753,21 +827,24 @@
 				"setId": 100,
 				"cardImage": "images/cards/villains/brotherhood-02.jpg",
 				"cardType": "Villain",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 120,
 				"setId": 100,
 				"cardImage": "images/cards/villains/brotherhood-03.jpg",
 				"cardType": "Villain",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 120,
 				"setId": 100,
 				"cardImage": "images/cards/villains/brotherhood-04.jpg",
 				"cardType": "Villain",
-				"teamName": "Brotherhood"
+				"teamName": "Brotherhood",
+				"carName": "-"
 			  }			  
 			]
 		  },
@@ -790,21 +867,24 @@
 				"setId": 100,
 				"cardImage": "images/cards/villains/masters-of-evil-02.jpg",
 				"cardType": "Villain",
-				"teamName": "Masters Of Evil"
+				"teamName": "Masters Of Evil",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 121,
 				"setId": 100,
 				"cardImage": "images/cards/villains/masters-of-evil-03.jpg",
 				"cardType": "Villain",
-				"teamName": "Masters Of Evil"
+				"teamName": "Masters Of Evil",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 121,
 				"setId": 100,
 				"cardImage": "images/cards/villains/brotherhood-04.jpg",
 				"cardType": "Villain",
-				"teamName": "Masters Of Evil"
+				"teamName": "Masters Of Evil",
+				"carName": "-"
 			  }			  
 			]
 		  },
@@ -820,28 +900,32 @@
 				"setId": 100,
 				"cardImage": "images/cards/henchmen/mandroid.jpg",
 				"cardType": "Henchmen",
-				"teamName": "Mandroid"
+				"teamName": "Mandroid",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 122,
 				"setId": 100,
 				"cardImage": "images/cards/henchmen/doombot-legion.jpg",
 				"cardType": "Henchmen",
-				"teamName": "Doombot"
+				"teamName": "Doombot",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 122,
 				"setId": 100,
 				"cardImage": "images/cards/henchmen/sentinel.jpg",
 				"cardType": "Henchmen",
-				"teamName": "Sentinel"
+				"teamName": "Sentinel",
+				"carName": "-"
 			  },
 			  {
 				"deckId": 122,
 				"setId": 100,
 				"cardImage": "images/cards/henchmen/hand-ninjas.jpg",
 				"cardType": "Villain",
-				"teamName": "Hand Ninjas"
+				"teamName": "Hand Ninjas",
+				"carName": "-"
 			  }			  
 			]
 		  }

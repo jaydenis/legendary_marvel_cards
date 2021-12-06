@@ -13,14 +13,16 @@
 					"setId": 200,
 					"cardImage": "images/cards/heroes/mr-fantasticmr-fantastic-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 201,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/mr-fantastic-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 201,
@@ -28,14 +30,16 @@
 					"cardImage": "images/cards/heroes/mr-fantastic-03.jpg",
 					"cardName": "Fantastic Four Assemble",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 201,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/mr-fantastic-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				}
 			]
 		},
@@ -51,28 +55,32 @@
 					"setId": 200,
 					"cardImage": "images/cards/heroes/thing-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 202,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/thing-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 202,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/thing-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 202,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/thing-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				}
 			]
 		},
@@ -88,28 +96,32 @@
 					"setId": 200,
 					"cardImage": "images/cards/heroes/human-torch-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 203,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/human-torch-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 203,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/human-torch-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 203,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/human-torch-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				}
 			]
 		},
@@ -125,28 +137,32 @@
 					"setId": 200,
 					"cardImage": "images/cards/heroes/invisible-woman-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 204,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/invisible-woman-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 204,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/human-torch-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				},
 				{
 					"deckId": 204,
 					"setId": 200,
 					"cardImage": "images/cards/heroes/invisible-woman-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Fantastic Four"
+					"teamName": "Fantastic Four",
+					"carName": "-"
 				}
 			]
 		},
@@ -162,35 +178,40 @@
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/mole-man-01.jpg",
 					"cardType": "Mastermind",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 205,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/mole-man-02.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 205,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/mole-man-03.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 205,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/mole-man-04.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 205,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/mole-man-05.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				}
 			]
 		},
@@ -206,35 +227,40 @@
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/galactus-01.jpg",
 					"cardType": "Mastermind",
-					"teamName": "Galactus"
+					"teamName": "Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 205,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/galactus-02.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Galactus"
+					"teamName": "Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 206,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/galactus-03.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Galactus"
+					"teamName": "Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 206,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/galactus-04.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Galactus"
+					"teamName": "Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 206,
 					"setId": 200,
 					"cardImage": "images/cards/masterminds/galactus-05.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Galactus"
+					"teamName": "Galactus",
+					"carName": "-"
 				}
 			]
 		},
@@ -250,28 +276,32 @@
 					"setId": 200,
 					"cardImage": "images/cards/villains/subterranea-01.jpg",
 					"cardType": "Villain",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 207,
 					"setId": 200,
 					"cardImage": "images/cards/villains/subterranea-02.jpg",
 					"cardType": "Villain",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 207,
 					"setId": 200,
 					"cardImage": "images/cards/villains/subterranea-03.jpg",
 					"cardType": "Villain",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				},
 				{
 					"deckId": 207,
 					"setId": 200,
 					"cardImage": "images/cards/villains/subterranea-04.jpg",
 					"cardType": "Villain",
-					"teamName": "Subterranea"
+					"teamName": "Subterranea",
+					"carName": "-"
 				}
 			]
 		},
@@ -287,28 +317,32 @@
 					"setId": 200,
 					"cardImage": "images/cards/villains/heralds-of-galactus-01.jpg",
 					"cardType": "Villain",
-					"teamName": "Heralds Of Galactus"
+					"teamName": "Heralds Of Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 208,
 					"setId": 200,
 					"cardImage": "images/cards/villains/heralds-of-galactus-02.jpg",
 					"cardType": "Villain",
-					"teamName": "Heralds Of Galactus"
+					"teamName": "Heralds Of Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 208,
 					"setId": 200,
 					"cardImage": "images/cards/villains/heralds-of-galactus-03.jpg",
 					"cardType": "Villain",
-					"teamName": "Heralds Of Galactus"
+					"teamName": "Heralds Of Galactus",
+					"carName": "-"
 				},
 				{
 					"deckId": 208,
 					"setId": 200,
 					"cardImage": "images/cards/villains/heralds-of-galactus-04.jpg",
 					"cardType": "Villain",
-					"teamName": "Heralds Of Galactus"
+					"teamName": "Heralds Of Galactus",
+					"carName": "-"
 				}
 			]
 		}
