@@ -647,7 +647,8 @@
 					"setId": 100,
 					"cardImage": "images/cards/masterminds/loki-03.jpg",
 					"cardType": "Mastermind Tactic",
-					"teamName": "Foes Of Asgard"
+					"teamName": "Foes Of Asgard",
+					"cardName": ""
 				},
 				{
 					"deckId": 116,
@@ -778,7 +779,7 @@
 					"cardImage": "images/cards/villains/hydra-01.jpg",
 					"cardType": "Villain",
 					"teamName": "HYDRA",
-					"cardName": "-"
+					"cardName": "HYDRA Kidnappers"
 				},
 				{
 					"deckId": 119,
@@ -786,7 +787,7 @@
 					"cardImage": "images/cards/villains/hydra-02.jpg",
 					"cardType": "Villain",
 					"teamName": "HYDRA",
-					"cardName": "-"
+					"cardName": "Endless Armies Of HYDRA"
 				},
 				{
 					"deckId": 119,
@@ -794,7 +795,7 @@
 					"cardImage": "images/cards/villains/hydra-03.jpg",
 					"cardType": "Villain",
 					"teamName": "HYDRA",
-					"cardName": "-"
+					"cardName": "Supreme HYDRA"
 				},
 				{
 					"deckId": 119,
@@ -802,7 +803,7 @@
 					"cardImage": "images/cards/villains/hydra-04.jpg",
 					"cardType": "Villain",
 					"teamName": "HYDRA",
-					"cardName": "-"
+					"cardName": "Viper"
 				}
 			]
 		},
@@ -818,7 +819,8 @@
 					"setId": 100,
 					"cardImage": "images/cards/villains/brotherhood-01.jpg",
 					"cardType": "Villain",
-					"teamName": "Brotherhood"
+					"teamName": "Brotherhood",
+					"cardName": "Sabertooth"
 				},
 				{
 					"deckId": 120,
@@ -826,7 +828,7 @@
 					"cardImage": "images/cards/villains/brotherhood-02.jpg",
 					"cardType": "Villain",
 					"teamName": "Brotherhood",
-					"cardName": "-"
+					"cardName": "Mystique"
 				},
 				{
 					"deckId": 120,
@@ -834,7 +836,7 @@
 					"cardImage": "images/cards/villains/brotherhood-03.jpg",
 					"cardType": "Villain",
 					"teamName": "Brotherhood",
-					"cardName": "-"
+					"cardName": "Juggernaut"
 				},
 				{
 					"deckId": 120,
@@ -842,7 +844,7 @@
 					"cardImage": "images/cards/villains/brotherhood-04.jpg",
 					"cardType": "Villain",
 					"teamName": "Brotherhood",
-					"cardName": "-"
+					"cardName": "Blob"
 				}
 			]
 		},
@@ -858,7 +860,8 @@
 					"setId": 100,
 					"cardImage": "images/cards/villains/masters-of-evil-01.jpg",
 					"cardType": "Villain",
-					"teamName": "Masters Of Evil"
+					"teamName": "Masters Of Evil",
+					"cardName":"Melter"
 				},
 				{
 					"deckId": 121,
@@ -866,7 +869,7 @@
 					"cardImage": "images/cards/villains/masters-of-evil-02.jpg",
 					"cardType": "Villain",
 					"teamName": "Masters Of Evil",
-					"cardName": "-"
+					"cardName": "Baron Zemo"
 				},
 				{
 					"deckId": 121,
@@ -874,15 +877,15 @@
 					"cardImage": "images/cards/villains/masters-of-evil-03.jpg",
 					"cardType": "Villain",
 					"teamName": "Masters Of Evil",
-					"cardName": "-"
+					"cardName": "Whirlwind"
 				},
 				{
 					"deckId": 121,
 					"setId": 100,
-					"cardImage": "images/cards/villains/brotherhood-04.jpg",
+					"cardImage": "images/cards/villains/masters-of-evil-04.jpg",
 					"cardType": "Villain",
 					"teamName": "Masters Of Evil",
-					"cardName": "-"
+					"cardName": "Ultron"
 				}
 			]
 		},
@@ -899,7 +902,7 @@
 					"cardImage": "images/cards/henchmen/mandroid.jpg",
 					"cardType": "Henchmen",
 					"teamName": "Mandroid",
-					"cardName": "-"
+					"cardName": "Mandroid"
 				},
 				{
 					"deckId": 122,
@@ -907,7 +910,7 @@
 					"cardImage": "images/cards/henchmen/doombot-legion.jpg",
 					"cardType": "Henchmen",
 					"teamName": "Doombot",
-					"cardName": "-"
+					"cardName": "Doombot Legion"
 				},
 				{
 					"deckId": 122,
@@ -915,7 +918,7 @@
 					"cardImage": "images/cards/henchmen/sentinel.jpg",
 					"cardType": "Henchmen",
 					"teamName": "Sentinel",
-					"cardName": "-"
+					"cardName": "Sentinel"
 				},
 				{
 					"deckId": 122,
@@ -923,7 +926,7 @@
 					"cardImage": "images/cards/henchmen/hand-ninjas.jpg",
 					"cardType": "Villain",
 					"teamName": "Hand Ninjas",
-					"cardName": "-"
+					"cardName": "Hand Ninjas"
 				}
 			]
 		},
@@ -1062,6 +1065,47 @@
 					"cardType": "General",
 					"teamName": "-",
 					"cardName": "Bystander"
+				}
+			]
+		},
+		{
+			"deckId": 125,
+			"setId": 100,
+			"deckImage": "images/cards/villains/skrulls-01.jpg",
+			"deckName": "Skrulls",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 125,
+					"setId": 100,
+					"cardImage": "images/cards/villains/skrulls-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Skrulls",
+					"cardName":"Paibok The Power Skrull"
+				},
+				{
+					"deckId": 125,
+					"setId": 100,
+					"cardImage": "images/cards/villains/skrulls-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Skrulls",
+					"cardName": "Skrull Queen Veranke"
+				},
+				{
+					"deckId": 125,
+					"setId": 100,
+					"cardImage": "images/cards/villains/skrulls-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Skrulls",
+					"cardName": "Skrull Shapeshifter"
+				},
+				{
+					"deckId": 125,
+					"setId": 100,
+					"cardImage": "images/cards/villains/skrulls-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Skrulls",
+					"cardName": "Super-Skrull"
 				}
 			]
 		}

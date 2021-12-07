@@ -46,7 +46,7 @@
 			"deckId": 202,
 			"setId": 200,
 			"deckImage": "images/cards/heroes/thing-01.jpg",
-			"deckName": "Thingn",
+			"deckName": "Thing",
 			"deckType": "Heroes",
 			"cards": [
 				{
