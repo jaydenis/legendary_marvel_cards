@@ -209,7 +209,7 @@
 		{
 			"deckId": 205,
 			"setId": 200,
-			"deckImage": "sets/fantastic_four/profilepics/mole-man.jpg",
+			"deckImage": "sets/fantastic_four/profilepics/mole-man.png",
 			"deckName": "Mole Man",
 			"deckType": "Masterminds",
 			"cards": [
@@ -258,7 +258,7 @@
 		{
 			"deckId": 206,
 			"setId": 200,
-			"deckImage": "sets/fantastic_four/profilepics/galactus.jpg",
+			"deckImage": "sets/fantastic_four/profilepics/galactus.png",
 			"deckName": "Galactus",
 			"deckType": "Masterminds",
 			"cards": [

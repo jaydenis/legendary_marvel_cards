@@ -573,7 +573,7 @@
 		{
 			"deckId": 115,
 			"setId": 100,
-			"deckImage": "sets/core/profilepics/dr-doom.jpg",
+			"deckImage": "sets/core/profilepics/dr-doom.png",
 			"deckName": "Dr. Doom",
 			"deckType": "Masterminds",
 			"cards": [
@@ -622,7 +622,7 @@
 		{
 			"deckId": 116,
 			"setId": 100,
-			"deckImage": "sets/core/profilepics/loki.jpg",
+			"deckImage": "sets/core/profilepics/loki.png",
 			"deckName": "Loki",
 			"deckType": "Masterminds",
 			"cards": [
@@ -671,7 +671,7 @@
 		{
 			"deckId": 117,
 			"setId": 100,
-			"deckImage": "sets/core/profilepics/magneto.jpg",
+			"deckImage": "sets/core/profilepics/magneto.png",
 			"deckName": "Magneto",
 			"deckType": "Masterminds",
 			"cards": [
@@ -720,7 +720,7 @@
 		{
 			"deckId": 118,
 			"setId": 100,
-			"deckImage": "sets/core/profilepics/red-skull.jpg",
+			"deckImage": "sets/core/profilepics/red-skull.png",
 			"deckName": "Red Skull",
 			"deckType": "Masterminds",
 			"cards": [
