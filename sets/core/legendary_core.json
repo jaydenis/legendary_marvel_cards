@@ -892,7 +892,7 @@
 		{
 			"deckId": 122,
 			"setId": 100,
-			"deckImage": "sets/core/profilepics/henchmen.jpg",
+			"deckImage": "images/misc/henchmen.jpg",
 			"deckName": "Henchmen",
 			"deckType": "Henchmen",
 			"cards": [

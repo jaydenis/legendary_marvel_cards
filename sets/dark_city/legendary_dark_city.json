@@ -938,6 +938,278 @@
 					"cardName": "-"
 				}
 			]
+		},
+		{
+			"deckId": 322,
+			"setId": 300,
+			"deckImage": "sets/dark_city/villains/emissaries-of-evil-01.jpg",
+			"deckName": "Emissaries of Evil",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 322,
+			"setId": 300,
+					"cardImage": "sets/dark_city/villains/emissaries-of-evil-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Emissaries of Evil",
+					"cardName": ""
+				},
+				{
+					"deckId": 322,
+			"setId": 300,
+					"cardImage": "sets/dark_city/villains/emissaries-of-evil-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Emissaries of Evil",
+					"cardName": ""
+				},
+				{
+					"deckId": 322,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/emissaries-of-evil-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Emissaries of Evil",
+					"cardName": ""
+				},
+				{
+					"deckId": 322,
+			"setId": 300,
+					"cardImage": "sets/dark_city/villains/emissaries-of-evil-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Emissaries of Evil",
+					"cardName": ""
+				}
+			]
+		},
+		{
+			"deckId": 323,
+			"setId": 300,
+			"deckImage": "sets/dark_city/villains/four-horsemen-01.jpg",
+			"deckName": "Four Horsemen",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 323,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/four-horsemen-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Four Horsemen",
+					"cardName": ""
+				},
+				{
+					"deckId": 323,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/four-horsemen-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Four Horsemen",
+					"cardName": ""
+				},
+				{
+					"deckId": 323,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/four-horsemen-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Four Horsemen",
+					"cardName": ""
+				},
+				{
+					"deckId": 323,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/four-horsemen-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Four Horsemen",
+					"cardName": ""
+				}
+			]
+		},
+		{
+			"deckId": 324,
+			"setId": 300,
+			"deckImage": "sets/dark_city/villains/marauders-01.jpg",
+			"deckName": "Marauders",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 324,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/marauders-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Marauders",
+					"cardName": ""
+				},
+				{
+					"deckId": 324,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/marauders-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Marauders",
+					"cardName": ""
+				},
+				{
+					"deckId": 324,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/marauders-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Marauders",
+					"cardName": ""
+				},
+				{
+					"deckId": 324,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/marauders-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Marauders",
+					"cardName": ""
+				}
+			]
+		},
+		{
+			"deckId": 325,
+			"setId": 300,
+			"deckImage": "sets/dark_city/villains/mlf-01.jpg",
+			"deckName": "Mutant Liberation Front",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 325,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/mlf-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Mutant Liberation Front",
+					"cardName": ""
+				},
+				{
+					"deckId": 325,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/mlf-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Mutant Liberation Front",
+					"cardName": ""
+				},
+				{
+					"deckId": 325,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/mlf-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Mutant Liberation Front",
+					"cardName": ""
+				},
+				{
+					"deckId": 325,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/mlf-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Mutant Liberation Front",
+					"cardName": ""
+				}
+			]
+		},
+		{
+			"deckId": 326,
+			"setId": 300,
+			"deckImage": "sets/dark_city/villains/streets-of-new-york-01.jpg",
+			"deckName": "Streets Of New York",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 326,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/streets-of-new-york-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Streets Of New York",
+					"cardName": ""
+				},
+				{
+					"deckId": 326,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/streets-of-new-york-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Streets Of New York",
+					"cardName": ""
+				},
+				{
+					"deckId": 326,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/streets-of-new-york-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Streets Of New York",
+					"cardName": ""
+				},
+				{
+					"deckId": 326,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/streets-of-new-york-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Streets Of New York",
+					"cardName": ""
+				}
+			]
+		},
+		{
+			"deckId": 327,
+			"setId": 300,
+			"deckImage": "sets/dark_city/villains/underworld-01.jpg",
+			"deckName": "Underworld",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 327,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/underworld-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Underworld",
+					"cardName": ""
+				},
+				{
+					"deckId": 327,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/underworld-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Underworld",
+					"cardName": ""
+				},
+				{
+					"deckId": 327,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/underworld-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Underworld",
+					"cardName": ""
+				},
+				{
+					"deckId": 327,
+					"setId": 300,
+					"cardImage": "sets/dark_city/villains/underworld-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Underworld",
+					"cardName": ""
+				}
+			]
+		},
+		{
+			"deckId": 328,
+			"setId": 300,
+			"deckImage": "images/misc/henchmen.jpg",
+			"deckName": "Henchmen",
+			"deckType": "Henchmen",
+			"cards": [
+				{
+					"deckId": 328,
+					"setId": 300,
+					"cardImage": "sets/dark_city/henchmen/maggia-goons.jpg",
+					"cardType": "Henchmen",
+					"teamName": "Maggia Goons",
+					"cardName": "Maggia Goons"
+				},
+				{
+					"deckId": 328,
+					"setId": 300,
+					"cardImage": "sets/dark_city/henchmen/phalanx.jpg",
+					"cardType": "Henchmen",
+					"teamName": "Phalanx",
+					"cardName": "Phalanx"
+				}
+				
+			]
 		}
 	]
 }
