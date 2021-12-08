@@ -396,7 +396,7 @@
 				{
 					"deckId": 210,
 					"setId": 200,
-					"cardImage": "sets/fantastic_four/schemes/set_200/scheme-01.jpg",
+					"cardImage": "sets/fantastic_four/schemes/scheme-01.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Bathe Earth In Cosmic Rays"
@@ -404,7 +404,7 @@
 				{
 					"deckId": 210,
 					"setId": 200,
-					"cardImage": "sets/fantastic_four/schemes/set_200/scheme-02.jpg",
+					"cardImage": "sets/fantastic_four/schemes/scheme-02.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Flood The Planet With Melted Glaciers"
@@ -412,7 +412,7 @@
 				{
 					"deckId": 210,
 					"setId": 200,
-					"cardImage": "sets/fantastic_four/schemes/set_200/scheme-03.jpg",
+					"cardImage": "sets/fantastic_four/schemes/scheme-03.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Invincible Force Field"
@@ -420,7 +420,7 @@
 				{
 					"deckId": 210,
 					"setId": 200,
-					"cardImage": "sets/fantastic_four/schemes/set_200/scheme-04.jpg",
+					"cardImage": "sets/fantastic_four/schemes/scheme-04.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Pull Relaity Into The Negative Zone"

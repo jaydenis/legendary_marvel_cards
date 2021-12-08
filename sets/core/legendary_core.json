@@ -940,7 +940,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-01.jpg",
+					"cardImage": "sets/core/schemes/scheme-01.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Super Civil War"
@@ -948,7 +948,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-02.jpg",
+					"cardImage": "sets/core/schemes/scheme-02.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Secret Invasion Of The Skrull Shapeshifters"
@@ -956,7 +956,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-03.jpg",
+					"cardImage": "sets/core/schemes/scheme-03.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Replace Eath's Leaders With Killbots"
@@ -964,7 +964,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-04.jpg",
+					"cardImage": "sets/core/schemes/scheme-04.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "The Legacy Virus"
@@ -972,7 +972,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-05.jpg",
+					"cardImage": "sets/core/schemes/scheme-05.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Midtown Bank Robbery"
@@ -980,7 +980,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-06.jpg",
+					"cardImage": "sets/core/schemes/scheme-06.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Unleashe The Power Of The Cosmic Cube"
@@ -988,7 +988,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-07.jpg",
+					"cardImage": "sets/core/schemes/scheme-07.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Portals To The Dark Dimension"
@@ -996,7 +996,7 @@
 				{
 					"deckId": 123,
 					"setId": 100,
-					"cardImage": "sets/core/schemes/set_100/scheme-08.jpg",
+					"cardImage": "sets/core/schemes/scheme-08.jpg",
 					"cardType": "Scheme",
 					"teamName": "-",
 					"cardName": "Negative Zone Prison Breakout"
