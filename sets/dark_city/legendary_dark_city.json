@@ -1,0 +1,943 @@
+{
+	"setId": 300,
+	"decks": [
+		{
+			"deckId": 301,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/angel.jpg",
+			"deckName": "Angel",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 301,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/angel-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "Strength Of Spirt"
+				},
+				{
+					"deckId": 301,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/angel-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "Drop Off A Friend"
+				},
+				{
+					"deckId": 301,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/angel-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "High-Speed Chase"
+				},
+				{
+					"deckId": 301,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/angel-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "Diving Catch"
+				}
+			]
+		},
+		{
+			"deckId": 302,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/bishop.jpg",
+			"deckName": "Bishop",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 302,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/bishop-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 302,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/bishop-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 302,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/bishop-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 302,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/bishop-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 303,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/blade.jpg",
+			"deckName": "Blacde",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 303,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/blade-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights"
+				},
+				{
+					"deckId": 303,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/blade-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights"
+				},
+				{
+					"deckId": 303,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/blade-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights"
+				},
+				{
+					"deckId": 303,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/blade-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights"
+				}
+			]
+		},
+		{
+			"deckId": 304,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/cable.jpg",
+			"deckName": "Cable",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 304,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/cable-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 304,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/cable-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 304,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/cable-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 304,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/cable-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 305,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/colossus.jpg",
+			"deckName": "Colossus",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 305,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/colossus-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 305,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/colossus-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 305,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/colossus-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 305,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/colossus-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 306,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/daredevil.jpg",
+			"deckName": "Daredevil",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 306,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/daredevil-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 306,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/daredevil-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 306,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/daredevil-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 306,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/daredevil-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 307,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/domino.jpg",
+			"deckName": "Domino",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 307,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/domino-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 307,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/domino-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 307,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/domino-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 307,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/edomino-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 308,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/elektra.jpg",
+			"deckName": "Elektra",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 308,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/elektra-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 308,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/elektra-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 308,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/elektra-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 308,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/elektra-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 309,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/forge.jpg",
+			"deckName": "Forge",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 309,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/forge-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 309,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/forge-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 309,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/forge-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 309,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/forge-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 310,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/ghost-rider.jpg",
+			"deckName": "Ghost Rider",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 310,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/ghost-rider-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 310,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/ghost-rider-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 310,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/ghost-rider-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 310,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/ghost-rider-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 311,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/iceman.jpg",
+			"deckName": "Iceman",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 311,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iceman-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 311,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iceman-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 311,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iceman-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 311,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iceman-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 312,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/iron-fist.jpg",
+			"deckName": "Iron Fist",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 312,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iron-fist-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 312,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iron-fist-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 312,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iron-fist-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 312,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/iron-fist-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 313,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/jean-grey.jpg",
+			"deckName": "Jean Grey",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 313,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/jean-grey-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 313,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/jean-grey-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 313,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/jean-grey-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 313,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/jean-grey-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 314,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/nightcrawler.jpg",
+			"deckName": "Nightcrawler",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 314,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/nightcrawler-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 314,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/nightcrawler-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 314,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/nightcrawler-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 314,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/nightcrawler-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 315,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/professor-x.jpg",
+			"deckName": "Professor X",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 315,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/professor-x-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 315,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/professor-x-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 315,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/professor-x-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				},
+				{
+					"deckId": 315,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/professor-x-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Men",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 316,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/punisher.jpg",
+			"deckName": "Punisher",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 316,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/punisher-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 316,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/punisher-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 316,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/punisher-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 316,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/punisher-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 317,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/x-force-wolverine.jpg",
+			"deckName": "X-Force Wolverine",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 317,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/x-force-wolverine-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 317,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/x-force-wolverine-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 317,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/x-force-wolverine-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 317,
+					"setId": 300,
+					"cardImage": "sets/dark_city/heroes/x-force-wolverine-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 318,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/apocalypse.png",
+			"deckName": "Apocalypse",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 318,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/apocalypse-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Four Horsemen",
+					"cardName": "-"
+				},
+				{
+					"deckId": 318,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/apocalypse-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Four Horsemen",
+					"cardName": "-"
+				},
+				{
+					"deckId": 318,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/apocalypse-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Four Horsemen",
+					"cardName": "-"
+				},
+				{
+					"deckId": 318,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/apocalypse-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Four Horsemen",
+					"cardName": "-"
+				},
+				{
+					"deckId": 318,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/apocalypse-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Four Horsemen",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 319,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/kingpin.png",
+			"deckName": "Kingpin",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 319,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/kingpin-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Streets Of New York",
+					"cardName": "-"
+				},
+				{
+					"deckId": 319,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/kingpin-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Streets Of New York",
+					"cardName": "-"
+				},
+				{
+					"deckId": 319,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/kingpin-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Streets Of New York",
+					"cardName": "-"
+				},
+				{
+					"deckId": 319,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/kingpin-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Streets Of New York",
+					"cardName": "-"
+				},
+				{
+					"deckId": 319,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/kingpin-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Streets Of New York",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 320,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/mephisto.png",
+			"deckName": "Mephisto",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 320,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mephisto-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Underworld",
+					"cardName": "-"
+				},
+				{
+					"deckId": 320,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mephisto-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Underworld",
+					"cardName": "-"
+				},
+				{
+					"deckId": 320,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mephisto-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Underworld",
+					"cardName": "-"
+				},
+				{
+					"deckId": 320,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mephisto-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Underworld",
+					"cardName": "-"
+				},
+				{
+					"deckId": 320,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mephisto-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Underworld",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 321,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/mr-sinister.png",
+			"deckName": "Mr Sinister",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 321,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mr-sinister-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Marauders",
+					"cardName": "-"
+				},
+				{
+					"deckId": 321,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mr-sinister-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Marauders",
+					"cardName": "-"
+				},
+				{
+					"deckId": 321,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mr-sinister-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Marauders",
+					"cardName": "-"
+				},
+				{
+					"deckId": 321,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mr-sinister-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Marauders",
+					"cardName": "-"
+				},
+				{
+					"deckId": 321,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/mr-sinister-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Marauders",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 322,
+			"setId": 300,
+			"deckImage": "sets/dark_city/profilepics/stryfe.png",
+			"deckName": "Stryfe",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 322,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/stryfe-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Mutant Liberation Front",
+					"cardName": "-"
+				},
+				{
+					"deckId": 322,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/stryfe-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Mutant Liberation Front",
+					"cardName": "-"
+				},
+				{
+					"deckId": 322,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/stryfe-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Mutant Liberation Front",
+					"cardName": "-"
+				},
+				{
+					"deckId": 322,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/stryfe-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Mutant Liberation Front",
+					"cardName": "-"
+				},
+				{
+					"deckId": 322,
+					"setId": 300,
+					"cardImage": "sets/dark_city/masterminds/stryfe-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Mutant Liberation Front",
+					"cardName": "-"
+				}
+			]
+		}
+	]
+}
