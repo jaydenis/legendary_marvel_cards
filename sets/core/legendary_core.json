@@ -70,7 +70,8 @@
 					"setId": 100,
 					"cardImage": "sets/core/heroes/iron-man-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"cardName": "-"
 				},
 				{
 					"deckId": 102,
@@ -94,28 +95,32 @@
 					"setId": 100,
 					"cardImage": "sets/core/heroes/black-widow-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"cardName": "-"
 				},
 				{
 					"deckId": 103,
 					"setId": 100,
 					"cardImage": "sets/core/heroes/black-widow-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"cardName": "-"
 				},
 				{
 					"deckId": 103,
 					"setId": 100,
 					"cardImage": "sets/core/heroes/black-widow-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"cardName": "-"
 				},
 				{
 					"deckId": 103,
 					"setId": 100,
 					"cardImage": "sets/core/heroes/black-widow-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Avengers"
+					"teamName": "Avengers",
+					"cardName": "-"
 				}
 			]
 		},
