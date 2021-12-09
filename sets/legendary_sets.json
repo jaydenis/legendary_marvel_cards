@@ -24,14 +24,6 @@
 	   "jsonFile":"sets/dark_city/legendary_dark_city.json"
     },
     {
-      "setId": 400,
-      "setName": "Villains",
-      "boxImage": "images/boxart/legendary_villains.jpg",
-      "yearReleased": 2015,
-      "numberOfCards": 650,
-	   "jsonFile":"json_data/legendary_villains.json"
-    },
-    {
       "setId": 500,
       "setName": "Paint The Town Red",
       "boxImage": "images/boxart/legendary_painttownred.jpg",

@@ -1,0 +1,431 @@
+{
+	"setId": 500,
+	"decks": [
+		{
+			"deckId": 501,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/black-cat.jpg",
+			"deckName": "Black Cat",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 501,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/black-cat-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 501,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/black-cat-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 501,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/black-cat-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 501,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/black-cat-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 502,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/moon-knight.jpg",
+			"deckName": "Moon Knight",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 502,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/moon-knight-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 502,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/moon-knight-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 502,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/moon-knight-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				},
+				{
+					"deckId": 502,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/moon-knight-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Marvel Knights",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 503,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/scarlet-spider.jpg",
+			"deckName": "Scarlet Spider",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 503,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/scarlet-spider-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 503,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/scarlet-spider-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 503,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/scarlet-spider-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				},
+				{
+					"deckId": 503,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/scarlet-spider-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "X-Force",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 504,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/spider-woman.jpg",
+			"deckName": "Spider Woman",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 504,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/spider-woman-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 504,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/spider-woman-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 504,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/scarlet-spider-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 504,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/spider-woman-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 509,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/symbiote-spider-man.jpg",
+			"deckName": "Symbiote Spider-Man",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 509,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/symbiote-spider-man-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 509,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/symbiote-spider-man-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 509,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/symbiote-spider-man-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				},
+				{
+					"deckId": 509,
+					"setId": 500,
+					"cardImage": "sets/painttownred/heroes/symbiote-spider-man-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Spider-Friends",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 505,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/mysterio1.png",
+			"deckName": "Mysterio",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 505,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/mysterio-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 505,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/mysterio-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 505,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/mysterio-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 505,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/mysterio-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 505,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/mysterio-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 506,
+			"setId": 500,
+			"deckImage": "sets/painttownred/profilepics/carnage.png",
+			"deckName": "Carnage",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 506,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/carnage-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 505,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/carnage-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 506,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/carnage-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 506,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/carnage-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 506,
+					"setId": 500,
+					"cardImage": "sets/painttownred/masterminds/carnage-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 507,
+			"setId": 500,
+			"deckImage": "sets/painttownred/villains/sinister-six.jpg",
+			"deckName": "Sinister Six",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 507,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/Sinister Six-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 507,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/Sinister Six-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 507,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/Sinister Six-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				},
+				{
+					"deckId": 507,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/Sinister Six-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Sinister Six",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 508,
+			"setId": 500,
+			"deckImage": "sets/painttownred/villains/maximum-carnage-01.jpg",
+			"deckName": "Maximum Carnage",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 508,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/maximum-carnage-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 508,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/maximum-carnage-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 508,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/maximum-carnage-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				},
+				{
+					"deckId": 508,
+					"setId": 500,
+					"cardImage": "sets/painttownred/villains/maximum-carnage-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Maximum Carnage",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 510,
+			"setId": 500,
+			"deckImage": "sets/painttownred/other/scheme-twist.jpg",
+			"deckName": "Schemes",
+			"deckType": "Schemes",
+			"cards": [
+				{
+					"deckId": 510,
+					"setId": 500,
+					"cardImage": "sets/painttownred/schemes/scheme-01.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 510,
+					"setId": 500,
+					"cardImage": "sets/painttownred/schemes/scheme-02.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 510,
+					"setId": 500,
+					"cardImage": "sets/painttownred/schemes/scheme-03.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 510,
+					"setId": 500,
+					"cardImage": "sets/painttownred/schemes/scheme-04.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				}
+			]
+		}
+	]
+}
