@@ -95,7 +95,8 @@
 					"setId": 300,
 					"cardImage": "sets/dark_city/heroes/blade-01.jpg",
 					"cardType": "Hero-Rare",
-					"teamName": "Marvel Knights"
+					"teamName": "Marvel Knights",
+					"cardName": "-"
 				},
 				{
 					"deckId": 303,
@@ -103,21 +104,23 @@
 					"cardImage": "sets/dark_city/heroes/blade-02.jpg",
 					"cardType": "Hero-Uncommon",
 					"teamName": "Marvel Knights",
-					"cardName":""
+					"cardName": ""
 				},
 				{
 					"deckId": 303,
 					"setId": 300,
 					"cardImage": "sets/dark_city/heroes/blade-03.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Marvel Knights"
+					"teamName": "Marvel Knights",
+					"cardName": "-"
 				},
 				{
 					"deckId": 303,
 					"setId": 300,
 					"cardImage": "sets/dark_city/heroes/blade-04.jpg",
 					"cardType": "Hero-Common",
-					"teamName": "Marvel Knights"
+					"teamName": "Marvel Knights",
+					"cardName": "-"
 				}
 			]
 		},
@@ -949,7 +952,7 @@
 			"cards": [
 				{
 					"deckId": 322,
-			"setId": 300,
+					"setId": 300,
 					"cardImage": "sets/dark_city/villains/emissaries-of-evil-01.jpg",
 					"cardType": "Villain",
 					"teamName": "Emissaries of Evil",
@@ -957,7 +960,7 @@
 				},
 				{
 					"deckId": 322,
-			"setId": 300,
+					"setId": 300,
 					"cardImage": "sets/dark_city/villains/emissaries-of-evil-02.jpg",
 					"cardType": "Villain",
 					"teamName": "Emissaries of Evil",
@@ -973,7 +976,7 @@
 				},
 				{
 					"deckId": 322,
-			"setId": 300,
+					"setId": 300,
 					"cardImage": "sets/dark_city/villains/emissaries-of-evil-04.jpg",
 					"cardType": "Villain",
 					"teamName": "Emissaries of Evil",
@@ -1209,9 +1212,9 @@
 					"teamName": "Phalanx",
 					"cardName": "Phalanx"
 				}
-				
 			]
-		},{
+		},
+		{
 			"deckId": 329,
 			"setId": 300,
 			"deckImage": "sets/dark_city/other/bystander-news-reporter.jpg",
@@ -1224,7 +1227,7 @@
 					"cardImage": "sets/core/dark_city/bystander-news-reporter.jpg",
 					"cardType": "Bystander",
 					"teamName": "Bystanders",
-					"cardName": "News Reported"
+					"cardName": "News Reporter"
 				},
 				{
 					"deckId": 329,
