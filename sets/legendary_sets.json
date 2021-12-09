@@ -29,7 +29,7 @@
       "boxImage": "images/boxart/legendary_painttownred.jpg",
       "yearReleased": 2014,
       "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_painttownred.json"
+	   "jsonFile":"sets/painttownred/legendary_painttownred.json"
     },
     {
       "setId": 600,
@@ -37,7 +37,7 @@
       "boxImage": "images/boxart/legendary_guardians_of_the_galaxy.jpg",
       "yearReleased": 2014,
       "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_guardians_of_the_galaxy.json"
+	   "jsonFile":"sets/guardians_of_the_galaxy/legendary_guardians_of_the_galaxy.json"
     },
     {
       "setId":700,
@@ -45,7 +45,7 @@
       "boxImage": "images/boxart/legendary_villains_fear_itself.jpg",
       "yearReleased": 2015,
       "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_villains_fear_itself.json"
+	   "jsonFile":"sets/villains_fear_itself/legendary_villains_fear_itself.json"
     },
     {
       "setId": 800,
