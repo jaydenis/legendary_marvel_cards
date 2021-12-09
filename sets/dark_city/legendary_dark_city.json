@@ -102,7 +102,8 @@
 					"setId": 300,
 					"cardImage": "sets/dark_city/heroes/blade-02.jpg",
 					"cardType": "Hero-Uncommon",
-					"teamName": "Marvel Knights"
+					"teamName": "Marvel Knights",
+					"cardName":""
 				},
 				{
 					"deckId": 303,
