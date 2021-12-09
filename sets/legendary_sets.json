@@ -5,7 +5,7 @@
       "boxImage": "images/boxart/legendary_core.jpg",
       "yearReleased": 2013,
       "numberOfCards": 350,
-	  "jsonFile":"sets/core/legendary_core.json"
+	    "jsonFile":"sets/core/legendary_core.json"
     },
     {
       "setId": 200,
@@ -13,7 +13,7 @@
       "boxImage": "images/boxart/legendary_fantastic_four.jpg",
       "yearReleased": 2013,
       "numberOfCards": 100,
-	  "jsonFile":"sets/fantastic_four/legendary_fantastic_four.json"
+	    "jsonFile":"sets/fantastic_four/legendary_fantastic_four.json"
     },
     {
       "setId": 300,
@@ -21,7 +21,7 @@
       "boxImage": "images/boxart/legendary_dark_city.jpg",
       "yearReleased": 2013,
       "numberOfCards": 350,
-	   "jsonFile":"sets/dark_city/legendary_dark_city.json"
+	    "jsonFile":"sets/dark_city/legendary_dark_city.json"
     },
     {
       "setId": 500,
@@ -29,54 +29,7 @@
       "boxImage": "images/boxart/legendary_painttownred.jpg",
       "yearReleased": 2014,
       "numberOfCards": 100,
-	   "jsonFile":"sets/painttownred/legendary_painttownred.json"
-    },
-    {
-      "setId": 600,
-      "setName": "Guardians Of The Galaxy",
-      "boxImage": "images/boxart/legendary_guardians_of_the_galaxy.jpg",
-      "yearReleased": 2014,
-      "numberOfCards": 100,
-	   "jsonFile":"sets/guardians_of_the_galaxy/legendary_guardians_of_the_galaxy.json"
-    },
-    {
-      "setId":700,
-      "setName": "Villains: Fear Itself",
-      "boxImage": "images/boxart/legendary_villains_fear_itself.jpg",
-      "yearReleased": 2015,
-      "numberOfCards": 100,
-	   "jsonFile":"sets/villains_fear_itself/legendary_villains_fear_itself.json"
-    },
-    {
-      "setId": 800,
-      "setName": "Secret Wars Vol 1",
-      "boxImage": "images/boxart/legendary_secret_wars_vol_1.png",
-      "yearReleased": 2015,
-      "numberOfCards": 350,
-	   "jsonFile":"json_data/legendary_secret_wars_vol_1.json"
-    },
-    {
-      "setId": 900,
-      "setName": "Secret Wars Vol 2",
-      "boxImage": "images/boxart/legendary_secret_wars_vol_2.jpg",
-      "yearReleased": 2015,
-      "numberOfCards": 350,
-	   "jsonFile":"json_data/legendary_secret_wars_vol_2.json"
-    },
-    {
-      "setId": 1000,
-      "setName": "Deadpool",
-      "boxImage": "images/boxart/legendary_deadpool.jpg",
-      "yearReleased": 2016,
-      "numberOfCards": 100,
-	   "jsonFile":"json_data/legendary_deadpool.json"
-    },
-    {
-      "setId": 1100,
-      "setName": "Civil War",
-      "boxImage": "images/boxart/legendary_civil_war.jpg",
-      "yearReleased": 2016,
-      "numberOfCards": 350,
-	   "jsonFile":"json_data/legendary_civil_war.json"
+	    "jsonFile":"sets/painttownred/legendary_painttownred.json"
     }
+    
   ]
