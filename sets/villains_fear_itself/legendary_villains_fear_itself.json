@@ -1,0 +1,406 @@
+{
+	"setId": 700,
+	"decks": [
+		{
+			"deckId": 701,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/greithoth.jpg",
+			"deckName": "Greithoth Breaker of Wills",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 701,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/greithoth-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 701,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/greithoth-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 701,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/greithoth-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 701,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/greithoth-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 702,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/kuurth.jpg",
+			"deckName": "Kuurth Breaker Of Stone",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 702,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/kuurth-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 702,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/kuurth-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 702,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/kuurth-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 702,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/kuurth-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 703,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/nerkkod.jpg",
+			"deckName": "Nerkkod Breaker of Oceans",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 703,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nerkkod-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 703,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nerkkod-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 703,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nerkkod-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 703,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nerkkod-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 704,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/nul-breaker-of-worlds.jpg",
+			"deckName": "Nul Breaker Of Worlds",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 704,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nul-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 704,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nul-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 704,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nul-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 704,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/nul-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 709,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/skadi.jpg",
+			"deckName": "Skadi",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skadi-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skadi-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skadi-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				},
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skadi-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Foes Of Asgard",
+					"cardName": "-"
+				}
+			]
+		},
+        {
+			"deckId": 709,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/skirn-breaker-of-men.jpg",
+			"deckName": "Skirn Breaker Of Men",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skirn-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "HYDRA",
+					"cardName": "-"
+				},
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skirn-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "HYDRA",
+					"cardName": "-"
+				},
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skirn-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "HYDRA",
+					"cardName": "-"
+				},
+				{
+					"deckId": 709,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/heroes/skadi-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "HYDRA",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 705,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/profilepics/uru-enchanted-iron-man.png",
+			"deckName": "Uru-enchanted Iron Man",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 705,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/masterminds/uru-enchanted-iron-man-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 705,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/masterminds/uru-enchanted-iron-man-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 705,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/masterminds/uru-enchanted-iron-man-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 705,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/masterminds/uru-enchanted-iron-man-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 705,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/masterminds/uru-enchanted-iron-man-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				}
+			]
+		},		
+		{
+			"deckId": 707,
+			"setId": 700,
+			"deckImage": "sets/villains_fear_tself/villains/the-mighty-01.jpg",
+			"deckName": "The Mighty",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-01.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-02.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-03.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-04.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-05.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-06.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-07.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				},
+				{
+					"deckId": 707,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/villains/the-mighty-08.jpg",
+					"cardType": "Villain",
+					"teamName": "The Mighty",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 710,
+			"setId": 700,
+			"deckImage": "images/misc/scheme-twist.jpg",
+			"deckName": "Schemes",
+			"deckType": "Schemes",
+			"cards": [
+				{
+					"deckId": 710,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/schemes/plot-01.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 710,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/schemes/plot-02.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 710,
+					"setId": 700,
+					"cardImage": "sets/villains_fear_tself/schemes/plot-03.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				}
+			]
+		}
+	]
+}

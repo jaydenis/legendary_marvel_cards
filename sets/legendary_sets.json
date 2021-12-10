@@ -38,6 +38,14 @@
       "yearReleased": 2014,
       "numberOfCards": 100,
 	    "jsonFile":"sets/guardians_of_the_galaxy/legendary_guardians_of_the_galaxy.json"
+    },
+    {
+      "setId": 700,
+      "setName": "Villains: Fear Itself",
+      "boxImage": "images/boxart/legendary_villains_fear_tself.jpg",
+      "yearReleased": 2015,
+      "numberOfCards": 100,
+	    "jsonFile":"sets/villains_fear_tself/legendary_villains_fear_tself.json"
     }
     
   ]
