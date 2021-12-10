@@ -1224,7 +1224,7 @@
 				{
 					"deckId": 329,
 					"setId": 300,
-					"cardImage": "sets/core/dark_city/bystander-news-reporter.jpg",
+					"cardImage": "sets/dark_city/bystander-news-reporter.jpg",
 					"cardType": "Bystander",
 					"teamName": "Bystanders",
 					"cardName": "News Reporter"
@@ -1232,7 +1232,7 @@
 				{
 					"deckId": 329,
 					"setId": 300,
-					"cardImage": "sets/core/dark_city/bystander-paramedic.jpg",
+					"cardImage": "sets/dark_city/bystander-paramedic.jpg",
 					"cardType": "Bystander",
 					"teamName": "Bystanders",
 					"cardName": "Paramedic"
@@ -1240,10 +1240,83 @@
 				{
 					"deckId": 329,
 					"setId": 300,
-					"cardImage": "sets/core/dark_city/bystander-radition-scientist.jpg",
+					"cardImage": "sets/dark_city/bystander-radition-scientist.jpg",
 					"cardType": "Bystander",
 					"teamName": "Bystanders",
 					"cardName": "Radition Scientist"
+				}
+			]
+		},
+		{
+			"deckId": 330,
+			"setId": 300,
+			"deckImage": "images/misc/scheme-twist.jpg",
+			"deckName": "Schemes",
+			"deckType": "Schemes",
+			"cards": [
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-01.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": "Super Civil War"
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-02.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-03.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-04.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-05.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-06.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-07.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 330,
+					"setId": 300,
+					"cardImage": "sets/dark_city/schemes/scheme-08.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
 				}
 			]
 		}

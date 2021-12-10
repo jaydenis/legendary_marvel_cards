@@ -389,7 +389,7 @@
 		{
 			"deckId": 210,
 			"setId": 200,
-			"deckImage": "sets/fantastic_four/other/scheme-twist.jpg",
+			"deckImage": "images/misc/scheme-twist.jpg",
 			"deckName": "Schemes",
 			"deckType": "Schemes",
 			"cards": [

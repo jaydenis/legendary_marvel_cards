@@ -30,6 +30,14 @@
       "yearReleased": 2014,
       "numberOfCards": 100,
 	    "jsonFile":"sets/painttownred/legendary_painttownred.json"
+    },
+    {
+      "setId": 600,
+      "setName": "Guardians Of The Galaxy",
+      "boxImage": "images/boxart/legendary_guardians_of_the_galaxy.jpg",
+      "yearReleased": 2014,
+      "numberOfCards": 100,
+	    "jsonFile":"sets/guardians_of_the_galaxy/legendary_guardians_of_the_galaxy.json"
     }
     
   ]

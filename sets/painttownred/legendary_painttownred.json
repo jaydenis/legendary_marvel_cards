@@ -389,7 +389,7 @@
 		{
 			"deckId": 510,
 			"setId": 500,
-			"deckImage": "sets/painttownred/other/scheme-twist.jpg",
+			"deckImage": "images/misc/scheme-twist.jpg",
 			"deckName": "Schemes",
 			"deckType": "Schemes",
 			"cards": [
