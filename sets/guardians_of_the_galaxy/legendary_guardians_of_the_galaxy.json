@@ -1,0 +1,479 @@
+{
+	"setId": 600,
+	"decks": [
+		{
+			"deckId": 601,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/drax-the-destroyer.jpg",
+			"deckName": "Drax The Destroyer",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 601,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/drax-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 601,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/drax-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 601,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/drax-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 601,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/drax-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 602,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/gamora.jpg",
+			"deckName": "Gamora",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 602,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/gamora-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 602,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/gamora-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 602,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/gamora-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 602,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/gamora-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 603,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/groot.jpg",
+			"deckName": "Groot",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 603,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/groot-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 603,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/groot-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 603,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/groot-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 603,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/groot-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 604,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/rocket.jpg",
+			"deckName": "Rocket Raccoon",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 604,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/rocket-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 604,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/rocket-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 604,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/groot-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 604,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/rocket-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 609,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/star-lord.jpg",
+			"deckName": "Star Lord",
+			"deckType": "Heroes",
+			"cards": [
+				{
+					"deckId": 609,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/star-lord-01.jpg",
+					"cardType": "Hero-Rare",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 609,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/star-lord-02.jpg",
+					"cardType": "Hero-Uncommon",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 609,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/star-lord-03.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				},
+				{
+					"deckId": 609,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/heroes/star-lord-04.jpg",
+					"cardType": "Hero-Common",
+					"teamName": "Guardians Of The Galaxy",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 605,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/supreme-intelligence-of-the-kree.png",
+			"deckName": "Supreme Intelligence of the Kree",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 605,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/supreme-intelligence-of-the-kree-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 605,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/supreme-intelligence-of-the-kree-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 605,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/supreme-intelligence-of-the-kree-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 605,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/supreme-intelligence-of-the-kree-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 605,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/supreme-intelligence-of-the-kree-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 606,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/profilepics/thanos.png",
+			"deckName": "Thanos",
+			"deckType": "Masterminds",
+			"cards": [
+				{
+					"deckId": 606,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/thanos-01.jpg",
+					"cardType": "Mastermind",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 605,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/thanos-02.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 606,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/thanos-03.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 606,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/thanos-04.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "thanos",
+					"cardName": "-"
+				},
+				{
+					"deckId": 606,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/masterminds/thanos-05.jpg",
+					"cardType": "Mastermind Tactic",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 607,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-01.jpg",
+			"deckName": "Kree Starforce",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-05.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-06.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-07.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				},
+				{
+					"deckId": 607,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/kree-starforce-08.jpg",
+					"cardType": "Villain",
+					"teamName": "Kree Starforce",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 608,
+			"setId": 600,
+			"deckImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-01.jpg",
+			"deckName": "Infinity Gems",
+			"deckType": "Villains",
+			"cards": [
+				{
+					"deckId": 608,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-01.jpg",
+					"cardType": "Villain",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 608,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-02.jpg",
+					"cardType": "Villain",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 608,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-03.jpg",
+					"cardType": "Villain",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 608,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-04.jpg",
+					"cardType": "Villain",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 608,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-05.jpg",
+					"cardType": "Villain",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				},
+				{
+					"deckId": 608,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/villains/infinity-gems-06.jpg",
+					"cardType": "Villain",
+					"teamName": "Infinity Gems",
+					"cardName": "-"
+				}
+			]
+		},
+		{
+			"deckId": 610,
+			"setId": 600,
+			"deckImage": "images/misc/scheme-twist.jpg",
+			"deckName": "Schemes",
+			"deckType": "Schemes",
+			"cards": [
+				{
+					"deckId": 610,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/schemes/scheme-01.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 610,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/schemes/scheme-02.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 610,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/schemes/scheme-03.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				},
+				{
+					"deckId": 610,
+					"setId": 600,
+					"cardImage": "sets/guardians_of_the_galaxy/schemes/scheme-04.jpg",
+					"cardType": "Scheme",
+					"teamName": "-",
+					"cardName": ""
+				}
+			]
+		}
+	]
+}

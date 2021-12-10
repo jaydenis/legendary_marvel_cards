@@ -938,7 +938,7 @@
 		{
 			"deckId": 123,
 			"setId": 100,
-			"deckImage": "sets/core/other/scheme-twist.jpg",
+			"deckImage": "images/misc/scheme-twist.jpg",
 			"deckName": "Schemes",
 			"deckType": "Schemes",
 			"cards": [
