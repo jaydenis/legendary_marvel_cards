@@ -42,10 +42,10 @@
     {
       "setId": 700,
       "setName": "Villains: Fear Itself",
-      "boxImage": "images/boxart/legendary_villains_fear_tself.jpg",
+      "boxImage": "images/boxart/legendary_villains_fear_itself.jpg",
       "yearReleased": 2015,
       "numberOfCards": 100,
-	    "jsonFile":"sets/villains_fear_tself/legendary_villains_fear_tself.json"
+	    "jsonFile":"sets/villains_fear_tiself/legendary_villains_fear_itself.json"
     }
     
   ]
